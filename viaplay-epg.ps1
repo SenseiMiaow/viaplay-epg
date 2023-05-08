@@ -151,6 +151,7 @@ $global:now = Get-Date -Format "yyyy-MM-dd"
 #-----------------------------------------------------------------------------------------
 #xml: create / tv
 $path = "F:\__PS\Viaplay-EPG\viaplay.xml"
+$destination = "A:\xteve\guide2go"
 $xmlsettings = New-Object System.Xml.XmlWriterSettings
 $xmlsettings.Indent = $true
 $global:xmlWriter = [System.XML.XmlWriter]::Create($path, $xmlsettings)
@@ -340,5 +341,5 @@ $global:xmlWriter.Close()
 #-----------------------------------------------------------------------------------------
 # XMLTV - Output => Xteve
 #-----------------------------------------------------------------------------------------
-Copy-Item "F:\__PS\Viaplay-EPG\viaplay.xml" -Destination "A:\xteve\guide2go"
+Copy-Item $path -Destination $destination
 #-----------------------------------------------------------------------------------------
