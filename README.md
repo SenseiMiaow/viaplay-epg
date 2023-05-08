@@ -1,2 +1,3 @@
 # viaplay-epg
-Viaplay EPG (sports schedule)
+Powershell: Viaplay-EPG (sports schedule)
+Creates a schedule Dutch only for use as a EPG guide file.
