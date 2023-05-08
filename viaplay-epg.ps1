@@ -159,7 +159,7 @@ $global:xmlWriter.WriteStartElement("tv")
 
 
 #channel: Formule 1 - Algemeen
-$EPG += viaplay_epg -channel @{
+viaplay_epg -channel @{
     "id"            = "viaplay.f1";
     "name"          = "VIAPLAYF1";
     "desc"          = "Viaplay Formule 1";
