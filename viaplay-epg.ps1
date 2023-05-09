@@ -19,6 +19,7 @@ Function viaplay_epg($channel){
 
     #Viaplay=EPG
     $data = Invoke-RestMethod -Uri "$($channel.url)?date=$($global:now)"
+    Write-Host "Url: $($channel.url)?date=$($global:now)"
     $blocks = $data._embedded."viaplay:blocks"
 
     $count=0
@@ -150,7 +151,7 @@ $global:now = Get-Date -Format "yyyy-MM-dd"
 # XMLTV
 #-----------------------------------------------------------------------------------------
 #xml: create / tv
-$path = "F:\__PS\Viaplay-EPG\viaplay.xml"
+$path = "F:\__PS\Viaplay-EPG\viaplay-epg\viaplay.xml"
 $destination = "A:\xteve\guide2go"
 $xmlsettings = New-Object System.Xml.XmlWriterSettings
 $xmlsettings.Indent = $true
