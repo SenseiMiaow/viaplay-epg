@@ -145,7 +145,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230513132500 +0000" stop="20230513160000 +0000">
+  <programme channel="viaplay.premiereleague" start="20230513132500 +0000" stop="20230513170000 +0000">
     <title lang="nl">Man United - Wolverhampton</title>
     <sub-title lang="nl">Ronde 36 | Studio</sub-title>
     <desc lang="nl"></desc>
@@ -156,36 +156,6 @@
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23050426573573938</episode-num>
     <episode-num system="onscreen">Ronde 36 | Studio</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.premiereleague" start="20230513135000 +0000" stop="20230513163000 +0000">
-    <title lang="nl">Chelsea - Nottingham Forest</title>
-    <sub-title lang="nl">Ronde 36</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050456948498614</episode-num>
-    <episode-num system="onscreen">Ronde 36</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.premiereleague" start="20230513135000 +0000" stop="20230513163000 +0000">
-    <title lang="nl">Aston Villa - Tottenham</title>
-    <sub-title lang="nl">Ronde 36</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050484051406224</episode-num>
-    <episode-num system="onscreen">Ronde 36</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
@@ -215,6 +185,36 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23050420902002337</episode-num>
+    <episode-num system="onscreen">Ronde 36</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230513135000 +0000" stop="20230513163000 +0000">
+    <title lang="nl">Chelsea - Nottingham Forest</title>
+    <sub-title lang="nl">Ronde 36</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23050456948498614</episode-num>
+    <episode-num system="onscreen">Ronde 36</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230513135000 +0000" stop="20230513163000 +0000">
+    <title lang="nl">Aston Villa - Tottenham</title>
+    <sub-title lang="nl">Ronde 36</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23050484051406224</episode-num>
     <episode-num system="onscreen">Ronde 36</episode-num>
     <language>nl</language>
     <video></video>
@@ -621,21 +621,6 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga2" start="20230514112500 +0000" stop="20230514140000 +0000">
-    <title lang="nl">Regensburg - HSV</title>
-    <sub-title lang="nl">Ronde 32</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050993370766209</episode-num>
-    <episode-num system="onscreen">Ronde 32</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga2" start="20230514112500 +0000" stop="20230514140000 +0000">
     <title lang="nl">Hannover - Darmstadt</title>
     <sub-title lang="nl">Ronde 32</sub-title>
     <desc lang="nl"></desc>
@@ -660,6 +645,21 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23050999551560692</episode-num>
+    <episode-num system="onscreen">Ronde 32</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230514112500 +0000" stop="20230514140000 +0000">
+    <title lang="nl">Regensburg - HSV</title>
+    <sub-title lang="nl">Ronde 32</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23050993370766209</episode-num>
     <episode-num system="onscreen">Ronde 32</episode-num>
     <language>nl</language>
     <video></video>
@@ -771,6 +771,21 @@
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23050950203464255</episode-num>
     <episode-num system="onscreen">Kwartfinale, Halve finale &amp; Finale | European Tour</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.darts" start="20230518175500 +0000" stop="20230518220000 +0000">
+    <title lang="nl">2023 Premier League Darts</title>
+    <sub-title lang="nl">Night 16 | Aberdeen</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Darts</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051102869099793</episode-num>
+    <episode-num system="onscreen">Night 16 | Aberdeen</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
