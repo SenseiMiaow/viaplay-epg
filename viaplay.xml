@@ -720,6 +720,21 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.bundesliga" start="20230520162000 +0000" stop="20230520190000 +0000">
+    <title lang="nl">Bayern München - Leipzig</title>
+    <sub-title lang="nl">Ronde 33</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051257429756057</episode-num>
+    <episode-num system="onscreen">Ronde 33</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <programme channel="viaplay.bundesliga" start="20230521132000 +0000" stop="20230521160000 +0000">
     <title lang="nl">Mainz - Stuttgart</title>
     <sub-title lang="nl">Ronde 33</sub-title>
@@ -730,6 +745,21 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051160163537121</episode-num>
+    <episode-num system="onscreen">Ronde 33</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230521172000 +0000" stop="20230521200000 +0000">
+    <title lang="nl">Leverkusen - Mönchengladbach</title>
+    <sub-title lang="nl">Ronde 33</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051222204610228</episode-num>
     <episode-num system="onscreen">Ronde 33</episode-num>
     <language>nl</language>
     <video></video>
@@ -960,6 +990,21 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051106124474337</episode-num>
+    <episode-num system="onscreen">Ronde 33</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230520182500 +0000" stop="20230520210000 +0000">
+    <title lang="nl">HSV - Greuther Fürth</title>
+    <sub-title lang="nl">Ronde 33</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051289655387724</episode-num>
     <episode-num system="onscreen">Ronde 33</episode-num>
     <language>nl</language>
     <video></video>
