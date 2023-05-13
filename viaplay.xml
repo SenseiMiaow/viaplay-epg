@@ -535,23 +535,8 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230513112000 +0000" stop="20230513140000 +0000">
-    <title lang="nl">Leeds - Newcastle</title>
-    <sub-title lang="nl">Ronde 36</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050465731786009</episode-num>
-    <episode-num system="onscreen">Ronde 36</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.premiereleague" start="20230513132500 +0000" stop="20230513170000 +0000">
-    <title lang="nl">Man United - Wolverhampton</title>
+  <programme channel="viaplay.premiereleague" start="20230514122500 +0000" stop="20230514155500 +0000">
+    <title lang="nl">Everton - Man City</title>
     <sub-title lang="nl">Ronde 36 | Studio</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -559,14 +544,14 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050426573573938</episode-num>
+    <episode-num system="dd_progid">S23050572294023673</episode-num>
     <episode-num system="onscreen">Ronde 36 | Studio</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230513135000 +0000" stop="20230513163000 +0000">
-    <title lang="nl">Southampton - Fulham</title>
+  <programme channel="viaplay.premiereleague" start="20230514125000 +0000" stop="20230514153000 +0000">
+    <title lang="nl">Brentford - West Ham</title>
     <sub-title lang="nl">Ronde 36</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -574,53 +559,23 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050465200538244</episode-num>
+    <episode-num system="dd_progid">S23050568017175310</episode-num>
     <episode-num system="onscreen">Ronde 36</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230513135000 +0000" stop="20230513163000 +0000">
-    <title lang="nl">Crystal Palace - Bournemouth</title>
-    <sub-title lang="nl">Ronde 36</sub-title>
+  <programme channel="viaplay.premiereleague" start="20230514150000 +0000" stop="20230514181500 +0000">
+    <title lang="nl">Arsenal - Brighton</title>
+    <sub-title lang="nl">Ronde 36 | Studio</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
     <category lang="en">Soccer</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050420902002337</episode-num>
-    <episode-num system="onscreen">Ronde 36</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.premiereleague" start="20230513135000 +0000" stop="20230513163000 +0000">
-    <title lang="nl">Chelsea - Nottingham Forest</title>
-    <sub-title lang="nl">Ronde 36</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050456948498614</episode-num>
-    <episode-num system="onscreen">Ronde 36</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.premiereleague" start="20230513135000 +0000" stop="20230513163000 +0000">
-    <title lang="nl">Aston Villa - Tottenham</title>
-    <sub-title lang="nl">Ronde 36</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050484051406224</episode-num>
-    <episode-num system="onscreen">Ronde 36</episode-num>
+    <episode-num system="dd_progid">S23050583665562814</episode-num>
+    <episode-num system="onscreen">Ronde 36 | Studio</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
@@ -885,8 +840,8 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga" start="20230513132000 +0000" stop="20230513160000 +0000">
-    <title lang="nl">Union Berlin - Freiburg</title>
+  <programme channel="viaplay.bundesliga" start="20230514132000 +0000" stop="20230514160000 +0000">
+    <title lang="nl">Stuttgart - Leverkusen</title>
     <sub-title lang="nl">Ronde 32</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -894,14 +849,14 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050561271901610</episode-num>
+    <episode-num system="dd_progid">S23050971904538935</episode-num>
     <episode-num system="onscreen">Ronde 32</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga" start="20230513132000 +0000" stop="20230513160000 +0000">
-    <title lang="nl">Wolfsburg - Hoffenheim</title>
+  <programme channel="viaplay.bundesliga" start="20230514152000 +0000" stop="20230514180000 +0000">
+    <title lang="nl">Leipzig - Werder Bremen</title>
     <sub-title lang="nl">Ronde 32</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -909,67 +864,7 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050577375246295</episode-num>
-    <episode-num system="onscreen">Ronde 32</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230513132000 +0000" stop="20230513160000 +0000">
-    <title lang="nl">Frankfurt - Mainz</title>
-    <sub-title lang="nl">Ronde 32</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050502364288698</episode-num>
-    <episode-num system="onscreen">Ronde 32</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230513132000 +0000" stop="20230513160000 +0000">
-    <title lang="nl">Bochum - Augsburg</title>
-    <sub-title lang="nl">Ronde 32</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050857241054301</episode-num>
-    <episode-num system="onscreen">Ronde 32</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230513132000 +0000" stop="20230513160000 +0000">
-    <title lang="nl">Bayern München - Schalke</title>
-    <sub-title lang="nl">Ronde 32</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050529501469388</episode-num>
-    <episode-num system="onscreen">Ronde 32</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230513162000 +0000" stop="20230513190000 +0000">
-    <title lang="nl">Dortmund - Mönchengladbach</title>
-    <sub-title lang="nl">Ronde 32</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050540494529305</episode-num>
+    <episode-num system="dd_progid">S23050920690085368</episode-num>
     <episode-num system="onscreen">Ronde 32</episode-num>
     <language>nl</language>
     <video></video>
@@ -1205,8 +1100,8 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230513105500 +0000" stop="20230513133000 +0000">
-    <title lang="nl">Holstein Kiel - Karlsruher</title>
+  <programme channel="viaplay.bundesliga2" start="20230514112500 +0000" stop="20230514140000 +0000">
+    <title lang="nl">Hannover - Darmstadt</title>
     <sub-title lang="nl">Ronde 32</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -1214,29 +1109,14 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050975430565341</episode-num>
+    <episode-num system="dd_progid">S23050922909675431</episode-num>
     <episode-num system="onscreen">Ronde 32</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230513105500 +0000" stop="20230513133000 +0000">
-    <title lang="nl">Greuther Fürth - Braunschweig</title>
-    <sub-title lang="nl">Ronde</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050847181282025</episode-num>
-    <episode-num system="onscreen">Ronde</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga2" start="20230513105500 +0000" stop="20230513133000 +0000">
-    <title lang="nl">Kaiserslautern - Arminia Bielefeld</title>
+  <programme channel="viaplay.bundesliga2" start="20230514112500 +0000" stop="20230514140000 +0000">
+    <title lang="nl">Paderborn - Heidenheim</title>
     <sub-title lang="nl">Ronde 32</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -1244,14 +1124,14 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050970825524239</episode-num>
+    <episode-num system="dd_progid">S23050999551560692</episode-num>
     <episode-num system="onscreen">Ronde 32</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230513182500 +0000" stop="20230513210000 +0000">
-    <title lang="nl">St. Pauli - Düsseldorf</title>
+  <programme channel="viaplay.bundesliga2" start="20230514112500 +0000" stop="20230514140000 +0000">
+    <title lang="nl">Regensburg - HSV</title>
     <sub-title lang="nl">Ronde 32</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -1259,7 +1139,7 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050519391980628</episode-num>
+    <episode-num system="dd_progid">S23050993370766209</episode-num>
     <episode-num system="onscreen">Ronde 32</episode-num>
     <language>nl</language>
     <video></video>
@@ -1375,32 +1255,32 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230513110000 +0000" stop="20230513153000 +0000">
+  <programme channel="viaplay.darts" start="20230514110000 +0000" stop="20230514153000 +0000">
     <title lang="nl">Czech Darts Open</title>
-    <sub-title lang="nl">Ronde 2 | European Tour</sub-title>
+    <sub-title lang="nl">Ronde 3 | European Tour</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
     <category lang="en">Darts</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050539997534477</episode-num>
-    <episode-num system="onscreen">Ronde 2 | European Tour</episode-num>
+    <episode-num system="dd_progid">S23050838547396414</episode-num>
+    <episode-num system="onscreen">Ronde 3 | European Tour</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230513170000 +0000" stop="20230513213000 +0000">
+  <programme channel="viaplay.darts" start="20230514170000 +0000" stop="20230514213000 +0000">
     <title lang="nl">Czech Darts Open</title>
-    <sub-title lang="nl">Ronde 2 | European Tour</sub-title>
+    <sub-title lang="nl">Kwartfinale, Halve finale &amp; Finale | European Tour</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
     <category lang="en">Darts</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050895159645261</episode-num>
-    <episode-num system="onscreen">Ronde 2 | European Tour</episode-num>
+    <episode-num system="dd_progid">S23050950203464255</episode-num>
+    <episode-num system="onscreen">Kwartfinale, Halve finale &amp; Finale | European Tour</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
