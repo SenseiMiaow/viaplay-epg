@@ -981,21 +981,6 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga2" start="20230519162500 +0000" stop="20230519190000 +0000">
-    <title lang="nl">Darmstadt - Magdeburg</title>
-    <sub-title lang="nl">Ronde 33</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051124400473851</episode-num>
-    <episode-num system="onscreen">Ronde 33</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga2" start="20230519162500 +0000" stop="20230519190000 +0000">
     <title lang="nl">Holstein Kiel - St. Pauli</title>
     <sub-title lang="nl">Ronde 33</sub-title>
     <desc lang="nl"></desc>
@@ -1005,6 +990,21 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051130017889474</episode-num>
+    <episode-num system="onscreen">Ronde 33</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230519162500 +0000" stop="20230519190000 +0000">
+    <title lang="nl">Darmstadt - Magdeburg</title>
+    <sub-title lang="nl">Ronde 33</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051124400473851</episode-num>
     <episode-num system="onscreen">Ronde 33</episode-num>
     <language>nl</language>
     <video></video>
@@ -1120,21 +1120,6 @@
     <display-name>Viaplay Darts</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Darts.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.darts" start="20230512170000 +0000" stop="20230512213000 +0000">
-    <title lang="nl">Czech Darts Open</title>
-    <sub-title lang="nl">Ronde 1 | European Tour</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Darts</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050533111059436</episode-num>
-    <episode-num system="onscreen">Ronde 1 | European Tour</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.darts" start="20230513110000 +0000" stop="20230513153000 +0000">
     <title lang="nl">Czech Darts Open</title>
     <sub-title lang="nl">Ronde 2 | European Tour</sub-title>
