@@ -861,21 +861,6 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga2" start="20230519162500 +0000" stop="20230519190000 +0000">
-    <title lang="nl">Holstein Kiel - St. Pauli</title>
-    <sub-title lang="nl">Ronde 33</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051130017889474</episode-num>
-    <episode-num system="onscreen">Ronde 33</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga2" start="20230519162500 +0000" stop="20230519190000 +0000">
     <title lang="nl">Darmstadt - Magdeburg</title>
     <sub-title lang="nl">Ronde 33</sub-title>
     <desc lang="nl"></desc>
@@ -885,6 +870,21 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051124400473851</episode-num>
+    <episode-num system="onscreen">Ronde 33</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230519162500 +0000" stop="20230519190000 +0000">
+    <title lang="nl">Holstein Kiel - St. Pauli</title>
+    <sub-title lang="nl">Ronde 33</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051130017889474</episode-num>
     <episode-num system="onscreen">Ronde 33</episode-num>
     <language>nl</language>
     <video></video>
@@ -951,7 +951,7 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga2" start="20230521112500 +0000" stop="20230521140000 +0000">
-    <title lang="nl">Nürnberg - Hansa Rostock</title>
+    <title lang="nl">Karlsruher - Kaiserslautern</title>
     <sub-title lang="nl">Ronde 33</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -959,7 +959,7 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051528958550952</episode-num>
+    <episode-num system="dd_progid">S23051575108239542</episode-num>
     <episode-num system="onscreen">Ronde 33</episode-num>
     <language>nl</language>
     <video></video>
@@ -975,6 +975,21 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051585017820640</episode-num>
+    <episode-num system="onscreen">Ronde 33</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230521112500 +0000" stop="20230521140000 +0000">
+    <title lang="nl">Nürnberg - Hansa Rostock</title>
+    <sub-title lang="nl">Ronde 33</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051528958550952</episode-num>
     <episode-num system="onscreen">Ronde 33</episode-num>
     <language>nl</language>
     <video></video>
