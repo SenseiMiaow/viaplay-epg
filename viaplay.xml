@@ -535,6 +535,21 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.premiereleague" start="20230522185000 +0000" stop="20230522213000 +0000">
+    <title lang="nl">Newcastle - Leicester</title>
+    <sub-title lang="nl">Ronde 37</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051573580168624</episode-num>
+    <episode-num system="onscreen">Ronde 37</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <programme channel="viaplay.premiereleague" start="20230515185000 +0000" stop="20230515213000 +0000">
     <title lang="nl">Leicester - Liverpool</title>
     <sub-title lang="nl">Ronde 36</sub-title>
