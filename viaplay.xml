@@ -850,21 +850,6 @@
     <display-name>Viaplay Darts</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Darts.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.darts" start="20230513170000 +0000" stop="20230513213000 +0000">
-    <title lang="nl">Czech Darts Open</title>
-    <sub-title lang="nl">Ronde 2 | European Tour</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Darts</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050895159645261</episode-num>
-    <episode-num system="onscreen">Ronde 2 | European Tour</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.darts" start="20230514110000 +0000" stop="20230514153000 +0000">
     <title lang="nl">Czech Darts Open</title>
     <sub-title lang="nl">Ronde 3 | European Tour</sub-title>
