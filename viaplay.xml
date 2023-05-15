@@ -480,21 +480,6 @@
     <display-name>Viaplay Bundesliga</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Bundesliga.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.bundesliga" start="20230513162000 +0000" stop="20230513190000 +0000">
-    <title lang="nl">Dortmund - Mönchengladbach</title>
-    <sub-title lang="nl">Ronde 32</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050540494529305</episode-num>
-    <episode-num system="onscreen">Ronde 32</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.bundesliga" start="20230514132000 +0000" stop="20230514160000 +0000">
     <title lang="nl">Stuttgart - Leverkusen</title>
     <sub-title lang="nl">Ronde 32</sub-title>
