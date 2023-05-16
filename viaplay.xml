@@ -295,36 +295,6 @@
     <display-name>Viaplay Premiere-League</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_Premiere-League.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.premiereleague" start="20230514122500 +0000" stop="20230514155500 +0000">
-    <title lang="nl">Everton - Man City</title>
-    <sub-title lang="nl">Ronde 36 | Studio</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050572294023673</episode-num>
-    <episode-num system="onscreen">Ronde 36 | Studio</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.premiereleague" start="20230514125000 +0000" stop="20230514153000 +0000">
-    <title lang="nl">Brentford - West Ham</title>
-    <sub-title lang="nl">Ronde 36</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23050568017175310</episode-num>
-    <episode-num system="onscreen">Ronde 36</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.premiereleague" start="20230514150000 +0000" stop="20230514181500 +0000">
     <title lang="nl">Arsenal - Brighton</title>
     <sub-title lang="nl">Ronde 36 | Studio</sub-title>
