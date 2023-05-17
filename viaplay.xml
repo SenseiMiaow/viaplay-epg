@@ -751,21 +751,6 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga" start="20230520162000 +0000" stop="20230520190000 +0000">
-    <title lang="nl">Bayern München - Leipzig (Tactical Feed)</title>
-    <sub-title lang="nl">Ronde 33</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051639430237573</episode-num>
-    <episode-num system="onscreen">Ronde 33</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230520162000 +0000" stop="20230520190000 +0000">
     <title lang="nl">Bayern München - Leipzig</title>
     <sub-title lang="nl">Ronde 33</sub-title>
     <desc lang="nl"></desc>
@@ -775,6 +760,21 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051257429756057</episode-num>
+    <episode-num system="onscreen">Ronde 33</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230520162000 +0000" stop="20230520190000 +0000">
+    <title lang="nl">Bayern München - Leipzig (Tactical Feed)</title>
+    <sub-title lang="nl">Ronde 33</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051639430237573</episode-num>
     <episode-num system="onscreen">Ronde 33</episode-num>
     <language>nl</language>
     <video></video>
@@ -821,6 +821,21 @@
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051222204610228</episode-num>
     <episode-num system="onscreen">Ronde 33</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
+    <title lang="nl">Köln - Bayern München</title>
+    <sub-title lang="nl">Ronde 34</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051702271958207</episode-num>
+    <episode-num system="onscreen">Ronde 34</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
