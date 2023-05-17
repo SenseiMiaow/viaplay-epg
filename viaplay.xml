@@ -245,6 +245,21 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.f1" start="20230525090500 +0000" stop="20230525105500 +0000">
+    <title lang="nl">Grand Prix van Monaco</title>
+    <sub-title lang="nl">Kwalificatie</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051624739914996</episode-num>
+    <episode-num system="onscreen">Kwalificatie</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay_backupfeed.f1">
     <display-name>VIAPLAYBFF1</display-name>
     <display-name>Viaplay Formule 1 - Backup Feed</display-name>
@@ -415,7 +430,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230521115500 +0000" stop="20230521152500 +0000">
+  <programme channel="viaplay.premiereleague" start="20230521122000 +0000" stop="20230521150000 +0000">
     <title lang="nl">West Ham - Leeds</title>
     <sub-title lang="nl">Ronde 37</sub-title>
     <desc lang="nl"></desc>
@@ -445,7 +460,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230521143000 +0000" stop="20230521180000 +0000">
+  <programme channel="viaplay.premiereleague" start="20230521141000 +0000" stop="20230521183000 +0000">
     <title lang="nl">Man City - Chelsea</title>
     <sub-title lang="nl">Ronde 37 | Studio</sub-title>
     <desc lang="nl"></desc>
@@ -475,7 +490,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230524182500 +0000" stop="20230524220000 +0000">
+  <programme channel="viaplay.premiereleague" start="20230524182000 +0000" stop="20230524220000 +0000">
     <title lang="nl">Brighton - Man City</title>
     <sub-title lang="nl">Ronde 32 | Studio</sub-title>
     <desc lang="nl"></desc>
