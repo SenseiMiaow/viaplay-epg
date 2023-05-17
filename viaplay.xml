@@ -200,7 +200,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230520121000 +0000" stop="20230520151000 +0000">
+  <programme channel="viaplay.f1" start="20230520120500 +0000" stop="20230520141500 +0000">
     <title lang="nl">Grand Prix van Emilia-Romagna</title>
     <sub-title lang="nl">Sprint Race</sub-title>
     <desc lang="nl"></desc>
@@ -340,8 +340,8 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230520135000 +0000" stop="20230520163000 +0000">
-    <title lang="nl">Bournemouth - Man United</title>
+  <programme channel="viaplay.premiereleague" start="20230520132500 +0000" stop="20230520165500 +0000">
+    <title lang="nl">Liverpool - Aston Villa</title>
     <sub-title lang="nl">Ronde 37</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -349,7 +349,7 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051028595232444</episode-num>
+    <episode-num system="dd_progid">S23051063976390100</episode-num>
     <episode-num system="onscreen">Ronde 37</episode-num>
     <language>nl</language>
     <video></video>
@@ -385,8 +385,8 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230520135000 +0000" stop="20230520165500 +0000">
-    <title lang="nl">Liverpool - Aston Villa</title>
+  <programme channel="viaplay.premiereleague" start="20230520135000 +0000" stop="20230520163000 +0000">
+    <title lang="nl">Bournemouth - Man United</title>
     <sub-title lang="nl">Ronde 37</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -394,7 +394,7 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051063976390100</episode-num>
+    <episode-num system="dd_progid">S23051028595232444</episode-num>
     <episode-num system="onscreen">Ronde 37</episode-num>
     <language>nl</language>
     <video></video>
@@ -501,6 +501,36 @@
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051699665042942</episode-num>
     <episode-num system="onscreen">Ronde 32 | Studio</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230528152500 +0000" stop="20230528180000 +0000">
+    <title lang="nl">Southampton - Liverpool</title>
+    <sub-title lang="nl">Ronde 38</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051784227601575</episode-num>
+    <episode-num system="onscreen">Ronde 38</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230528152500 +0000" stop="20230528180000 +0000">
+    <title lang="nl">Man United - Fulham</title>
+    <sub-title lang="nl">Ronde 38</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051778183081151</episode-num>
+    <episode-num system="onscreen">Ronde 38</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
@@ -646,6 +676,21 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga" start="20230520132000 +0000" stop="20230520160000 +0000">
+    <title lang="nl">Werder Bremen - Köln</title>
+    <sub-title lang="nl">Ronde 33</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051292551830500</episode-num>
+    <episode-num system="onscreen">Ronde 33</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230520132000 +0000" stop="20230520160000 +0000">
     <title lang="nl">Schalke - Frankfurt</title>
     <sub-title lang="nl">Ronde 33</sub-title>
     <desc lang="nl"></desc>
@@ -655,21 +700,6 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051235636422954</episode-num>
-    <episode-num system="onscreen">Ronde 33</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230520132000 +0000" stop="20230520160000 +0000">
-    <title lang="nl">Hoffenheim - Union Berlin</title>
-    <sub-title lang="nl">Ronde 33</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051253042563711</episode-num>
     <episode-num system="onscreen">Ronde 33</episode-num>
     <language>nl</language>
     <video></video>
@@ -691,7 +721,7 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga" start="20230520132000 +0000" stop="20230520160000 +0000">
-    <title lang="nl">Werder Bremen - Köln</title>
+    <title lang="nl">Hoffenheim - Union Berlin</title>
     <sub-title lang="nl">Ronde 33</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -699,7 +729,7 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051292551830500</episode-num>
+    <episode-num system="dd_progid">S23051253042563711</episode-num>
     <episode-num system="onscreen">Ronde 33</episode-num>
     <language>nl</language>
     <video></video>
