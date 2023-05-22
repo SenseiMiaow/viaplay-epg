@@ -65,7 +65,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230528112000 +0000" stop="20230528164500 +0000">
+  <programme channel="viaplay.f1" start="20230528115500 +0000" stop="20230528164500 +0000">
     <title lang="nl">Grand Prix van Monaco</title>
     <sub-title lang="nl">Race | Studio</sub-title>
     <desc lang="nl"></desc>
@@ -125,7 +125,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230527121000 +0000" stop="20230527134000 +0000">
+  <programme channel="viaplay.f1" start="20230527120500 +0000" stop="20230527134500 +0000">
     <title lang="nl">Grand Prix van Monaco</title>
     <sub-title lang="nl">Sprint Race</sub-title>
     <desc lang="nl"></desc>
@@ -140,7 +140,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230528061000 +0000" stop="20230528082000 +0000">
+  <programme channel="viaplay.f1" start="20230528055000 +0000" stop="20230528073000 +0000">
     <title lang="nl">Grand Prix van Monaco</title>
     <sub-title lang="nl">Race</sub-title>
     <desc lang="nl"></desc>
@@ -155,7 +155,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230528074500 +0000" stop="20230528100000 +0000">
+  <programme channel="viaplay.f1" start="20230528073000 +0000" stop="20230528085500 +0000">
     <title lang="nl">Grand Prix van Monaco</title>
     <sub-title lang="nl">Race</sub-title>
     <desc lang="nl"></desc>
@@ -220,66 +220,6 @@
     <display-name>Viaplay Premiere-League</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_Premiere-League.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.premiereleague" start="20230520132500 +0000" stop="20230520165500 +0000">
-    <title lang="nl">Liverpool - Aston Villa</title>
-    <sub-title lang="nl">Ronde 37</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051063976390100</episode-num>
-    <episode-num system="onscreen">Ronde 37</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.premiereleague" start="20230520135000 +0000" stop="20230520163000 +0000">
-    <title lang="nl">Bournemouth - Man United</title>
-    <sub-title lang="nl">Ronde 37</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051028595232444</episode-num>
-    <episode-num system="onscreen">Ronde 37</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.premiereleague" start="20230520135000 +0000" stop="20230520163000 +0000">
-    <title lang="nl">Wolverhampton - Everton</title>
-    <sub-title lang="nl">Ronde 37</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051056220488942</episode-num>
-    <episode-num system="onscreen">Ronde 37</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.premiereleague" start="20230520135000 +0000" stop="20230520163000 +0000">
-    <title lang="nl">Fulham - Crystal Palace</title>
-    <sub-title lang="nl">Ronde 37</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051072736518927</episode-num>
-    <episode-num system="onscreen">Ronde 37</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.premiereleague" start="20230520160000 +0000" stop="20230520193000 +0000">
     <title lang="nl">Nottingham Forest - Arsenal</title>
     <sub-title lang="nl">Ronde 37 | Studio</sub-title>
@@ -569,66 +509,6 @@
     <display-name>Viaplay Bundesliga</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Bundesliga.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.bundesliga" start="20230520132000 +0000" stop="20230520160000 +0000">
-    <title lang="nl">Werder Bremen - Köln</title>
-    <sub-title lang="nl">Ronde 33</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051292551830500</episode-num>
-    <episode-num system="onscreen">Ronde 33</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230520132000 +0000" stop="20230520160000 +0000">
-    <title lang="nl">Schalke - Frankfurt</title>
-    <sub-title lang="nl">Ronde 33</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051235636422954</episode-num>
-    <episode-num system="onscreen">Ronde 33</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230520132000 +0000" stop="20230520160000 +0000">
-    <title lang="nl">Hertha Berlin - Bochum</title>
-    <sub-title lang="nl">Ronde 33</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051219664193995</episode-num>
-    <episode-num system="onscreen">Ronde 33</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230520132000 +0000" stop="20230520154000 +0000">
-    <title lang="nl">Hoffenheim - Union Berlin</title>
-    <sub-title lang="nl">Ronde 33</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051253042563711</episode-num>
-    <episode-num system="onscreen">Ronde 33</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.bundesliga" start="20230520162000 +0000" stop="20230520190000 +0000">
     <title lang="nl">Bayern München - Leipzig</title>
     <sub-title lang="nl">Ronde 33</sub-title>
@@ -1130,6 +1010,21 @@
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23052258830930662</episode-num>
     <episode-num system="onscreen">Ronde 3 | European Tour</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.darts" start="20230528170000 +0000" stop="20230528213000 +0000">
+    <title lang="nl">European Darts Grand Prix</title>
+    <sub-title lang="nl">Kwartfinale, Halve finale &amp; Finale |  European Tour</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Darts</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23052263605356050</episode-num>
+    <episode-num system="onscreen">Kwartfinale, Halve finale &amp; Finale |  European Tour</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
