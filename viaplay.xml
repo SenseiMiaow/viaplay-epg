@@ -80,21 +80,6 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230525130500 +0000" stop="20230525145500 +0000">
-    <title lang="nl">Grand Prix van Monaco</title>
-    <sub-title lang="nl">Kwalificatie</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Auto racing</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051689564451662</episode-num>
-    <episode-num system="onscreen">Kwalificatie</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.f1" start="20230526090000 +0000" stop="20230526095000 +0000">
     <title lang="nl">Grand Prix van Monaco</title>
     <sub-title lang="nl">Kwalificatie</sub-title>
@@ -105,6 +90,21 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051624739914996</episode-num>
+    <episode-num system="onscreen">Kwalificatie</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230526130000 +0000" stop="20230526142000 +0000">
+    <title lang="nl">Grand Prix van Monaco</title>
+    <sub-title lang="nl">Kwalificatie</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051689564451662</episode-num>
     <episode-num system="onscreen">Kwalificatie</episode-num>
     <language>nl</language>
     <video></video>
@@ -706,6 +706,21 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
+    <title lang="nl">Köln - Bayern München</title>
+    <sub-title lang="nl">Ronde 34</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051702271958207</episode-num>
+    <episode-num system="onscreen">Ronde 34</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
     <title lang="nl">Borussia M'gladbach - Augsburg</title>
     <sub-title lang="nl">Ronde 34</sub-title>
     <desc lang="nl"></desc>
@@ -760,21 +775,6 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051954389277897</episode-num>
-    <episode-num system="onscreen">Ronde 34</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
-    <title lang="nl">Köln - Bayern München</title>
-    <sub-title lang="nl">Ronde 34</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051702271958207</episode-num>
     <episode-num system="onscreen">Ronde 34</episode-num>
     <language>nl</language>
     <video></video>
