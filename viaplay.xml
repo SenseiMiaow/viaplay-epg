@@ -80,21 +80,6 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230525090500 +0000" stop="20230525105500 +0000">
-    <title lang="nl">Grand Prix van Monaco</title>
-    <sub-title lang="nl">Kwalificatie</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Auto racing</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051624739914996</episode-num>
-    <episode-num system="onscreen">Kwalificatie</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.f1" start="20230525130500 +0000" stop="20230525145500 +0000">
     <title lang="nl">Grand Prix van Monaco</title>
     <sub-title lang="nl">Kwalificatie</sub-title>
@@ -110,17 +95,17 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230526130000 +0000" stop="20230526142000 +0000">
+  <programme channel="viaplay.f1" start="20230526090000 +0000" stop="20230526095000 +0000">
     <title lang="nl">Grand Prix van Monaco</title>
-    <sub-title lang="nl">Sprint Race</sub-title>
+    <sub-title lang="nl">Kwalificatie</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
     <category lang="en">Auto racing</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051604296069454</episode-num>
-    <episode-num system="onscreen">Sprint Race</episode-num>
+    <episode-num system="dd_progid">S23051624739914996</episode-num>
+    <episode-num system="onscreen">Kwalificatie</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
@@ -135,6 +120,21 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051695990594317</episode-num>
+    <episode-num system="onscreen">Sprint Race</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230527121000 +0000" stop="20230527134000 +0000">
+    <title lang="nl">Grand Prix van Monaco</title>
+    <sub-title lang="nl">Sprint Race</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051604296069454</episode-num>
     <episode-num system="onscreen">Sprint Race</episode-num>
     <language>nl</language>
     <video></video>
