@@ -615,6 +615,66 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
+    <title lang="nl">Leipzig - Schalke</title>
+    <sub-title lang="nl">Ronde 34</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051902392501198</episode-num>
+    <episode-num system="onscreen">Ronde 34</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
+    <title lang="nl">Union Berlin - Werder Bremen</title>
+    <sub-title lang="nl">Ronde 34</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051916934668675</episode-num>
+    <episode-num system="onscreen">Ronde 34</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
+    <title lang="nl">Frankfurt - Freiburg</title>
+    <sub-title lang="nl">Ronde 34</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23052252381946494</episode-num>
+    <episode-num system="onscreen">Ronde 34</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
+    <title lang="nl">Dortmund - Mainz</title>
+    <sub-title lang="nl">Ronde 34</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051954389277897</episode-num>
+    <episode-num system="onscreen">Ronde 34</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
     <title lang="nl">Bochum - Leverkusen</title>
     <sub-title lang="nl">Ronde 34</sub-title>
     <desc lang="nl"></desc>
@@ -645,21 +705,6 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
-    <title lang="nl">Frankfurt - Freiburg</title>
-    <sub-title lang="nl">Ronde 34</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23052252381946494</episode-num>
-    <episode-num system="onscreen">Ronde 34</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
     <title lang="nl">Borussia M'gladbach - Augsburg</title>
     <sub-title lang="nl">Ronde 34</sub-title>
     <desc lang="nl"></desc>
@@ -675,21 +720,6 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
-    <title lang="nl">Union Berlin - Werder Bremen</title>
-    <sub-title lang="nl">Ronde 34</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051916934668675</episode-num>
-    <episode-num system="onscreen">Ronde 34</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
     <title lang="nl">Köln - Bayern München</title>
     <sub-title lang="nl">Ronde 34</sub-title>
     <desc lang="nl"></desc>
@@ -699,36 +729,6 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051702271958207</episode-num>
-    <episode-num system="onscreen">Ronde 34</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
-    <title lang="nl">Dortmund - Mainz</title>
-    <sub-title lang="nl">Ronde 34</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051954389277897</episode-num>
-    <episode-num system="onscreen">Ronde 34</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
-    <title lang="nl">Leipzig - Schalke</title>
-    <sub-title lang="nl">Ronde 34</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051902392501198</episode-num>
     <episode-num system="onscreen">Ronde 34</episode-num>
     <language>nl</language>
     <video></video>
