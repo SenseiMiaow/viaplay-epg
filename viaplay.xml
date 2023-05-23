@@ -295,36 +295,6 @@
     <display-name>Viaplay Premiere-League</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_Premiere-League.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.premiereleague" start="20230521122000 +0000" stop="20230521150000 +0000">
-    <title lang="nl">West Ham - Leeds</title>
-    <sub-title lang="nl">Ronde 37</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051141047652068</episode-num>
-    <episode-num system="onscreen">Ronde 37</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.premiereleague" start="20230521125000 +0000" stop="20230521153000 +0000">
-    <title lang="nl">Brighton - Southampton</title>
-    <sub-title lang="nl">Ronde 37</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051116634423310</episode-num>
-    <episode-num system="onscreen">Ronde 37</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.premiereleague" start="20230521141000 +0000" stop="20230521183000 +0000">
     <title lang="nl">Man City - Chelsea</title>
     <sub-title lang="nl">Ronde 37 | Studio</sub-title>
@@ -400,36 +370,6 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.premiereleague" start="20230528152500 +0000" stop="20230528180000 +0000">
-    <title lang="nl">Everton - Bournemouth</title>
-    <sub-title lang="nl">Ronde 38</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051725169945687</episode-num>
-    <episode-num system="onscreen">Ronde 38</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.premiereleague" start="20230528152500 +0000" stop="20230528180000 +0000">
-    <title lang="nl">Brentford - Man City</title>
-    <sub-title lang="nl">Ronde 38</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051732485731792</episode-num>
-    <episode-num system="onscreen">Ronde 38</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.premiereleague" start="20230528152500 +0000" stop="20230528180000 +0000">
     <title lang="nl">Southampton - Liverpool</title>
     <sub-title lang="nl">Ronde 38</sub-title>
     <desc lang="nl"></desc>
@@ -490,7 +430,7 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.premiereleague" start="20230528152500 +0000" stop="20230528180000 +0000">
-    <title lang="nl">Crystal Palace - Nottingham Forest</title>
+    <title lang="nl">Everton - Bournemouth</title>
     <sub-title lang="nl">Ronde 38</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -498,7 +438,7 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051741169275808</episode-num>
+    <episode-num system="dd_progid">S23051725169945687</episode-num>
     <episode-num system="onscreen">Ronde 38</episode-num>
     <language>nl</language>
     <video></video>
@@ -514,6 +454,21 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051781123061389</episode-num>
+    <episode-num system="onscreen">Ronde 38</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230528152500 +0000" stop="20230528180000 +0000">
+    <title lang="nl">Brentford - Man City</title>
+    <sub-title lang="nl">Ronde 38</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051732485731792</episode-num>
     <episode-num system="onscreen">Ronde 38</episode-num>
     <language>nl</language>
     <video></video>
@@ -544,6 +499,21 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051792134969837</episode-num>
+    <episode-num system="onscreen">Ronde 38</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230528152500 +0000" stop="20230528180000 +0000">
+    <title lang="nl">Crystal Palace - Nottingham Forest</title>
+    <sub-title lang="nl">Ronde 38</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051741169275808</episode-num>
     <episode-num system="onscreen">Ronde 38</episode-num>
     <language>nl</language>
     <video></video>
