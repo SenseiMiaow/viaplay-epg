@@ -525,6 +525,21 @@
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Bundesliga.png" height="134" width="220"></icon>
   </channel>
   <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
+    <title lang="nl">Mönchengladbach - Augsburg</title>
+    <sub-title lang="nl">Ronde 34</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051913531271652</episode-num>
+    <episode-num system="onscreen">Ronde 34</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
     <title lang="nl">Bochum - Leverkusen</title>
     <sub-title lang="nl">Ronde 34</sub-title>
     <desc lang="nl"></desc>
@@ -609,21 +624,6 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051702271958207</episode-num>
-    <episode-num system="onscreen">Ronde 34</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230527132000 +0000" stop="20230527160000 +0000">
-    <title lang="nl">Borussia M'gladbach - Augsburg</title>
-    <sub-title lang="nl">Ronde 34</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051913531271652</episode-num>
     <episode-num system="onscreen">Ronde 34</episode-num>
     <language>nl</language>
     <video></video>
