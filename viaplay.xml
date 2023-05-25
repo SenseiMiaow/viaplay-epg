@@ -519,21 +519,6 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230525182000 +0000" stop="20230525215500 +0000">
-    <title lang="nl">Man United - Chelsea</title>
-    <sub-title lang="nl">Ronde 32 | Studio</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051699665042942</episode-num>
-    <episode-num system="onscreen">Ronde 32 | Studio</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <channel id="viaplay.bundesliga">
     <display-name>VIAPLAYB1</display-name>
     <display-name>Viaplay Bundesliga</display-name>
@@ -983,17 +968,32 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230525175500 +0000" stop="20230525220000 +0000">
-    <title lang="nl">2023 Premier League Darts</title>
-    <sub-title lang="nl">Play-offs | Londen</sub-title>
+  <programme channel="viaplay.darts" start="20230526110000 +0000" stop="20230526153000 +0000">
+    <title lang="nl">European Darts Grand Prix</title>
+    <sub-title lang="nl">Ronde 1 | European Tour</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
     <category lang="en">Darts</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051640580772662</episode-num>
-    <episode-num system="onscreen">Play-offs | Londen</episode-num>
+    <episode-num system="dd_progid">S23051905494025781</episode-num>
+    <episode-num system="onscreen">Ronde 1 | European Tour</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.darts" start="20230526170000 +0000" stop="20230526213000 +0000">
+    <title lang="nl">European Darts Grand Prix</title>
+    <sub-title lang="nl">Ronde 1 | European Tour</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Darts</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23051917774517408</episode-num>
+    <episode-num system="onscreen">Ronde 1 | European Tour</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
