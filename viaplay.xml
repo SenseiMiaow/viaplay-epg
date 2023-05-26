@@ -968,7 +968,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230526110000 +0000" stop="20230526153000 +0000">
+  <programme channel="viaplay.darts" start="20230526110000 +0000" stop="20230526150500 +0000">
     <title lang="nl">European Darts Grand Prix</title>
     <sub-title lang="nl">Ronde 1 | European Tour</sub-title>
     <desc lang="nl"></desc>
@@ -1103,7 +1103,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230526110000 +0000" stop="20230526153000 +0000">
+  <programme channel="viaplay.darts" start="20230526110000 +0000" stop="20230526150500 +0000">
     <title lang="nl">European Darts Grand Prix</title>
     <sub-title lang="nl">Ronde 1 | European Tour</sub-title>
     <desc lang="nl"></desc>
