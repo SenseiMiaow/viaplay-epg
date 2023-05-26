@@ -295,26 +295,101 @@
     <display-name>Viaplay Formule 1 - Backup Feed</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
+  <programme channel="viaplay_backupfeed.f1" start="20230526113000 +0000" stop="20230526133500 +0000">
+    <title lang="nl">Grand Prix van Monaco (Backup Feed)</title>
+    <sub-title lang="nl">Training 1</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23052258339343245</episode-num>
+    <episode-num system="onscreen">Training 1</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay_timing.f1">
     <display-name>VIAPLAYTF1</display-name>
     <display-name>Viaplay Formule 1 - Timing</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
+  <programme channel="viaplay_timing.f1" start="20230526113000 +0000" stop="20230526133500 +0000">
+    <title lang="nl">Timing</title>
+    <sub-title lang="nl">Vrije training 1 | Grand Prix van Monaco</sub-title>
+    <desc lang="nl">Met ons blijf je altijd op de hoogte van de posities en rondetijden van de Formule 1-coureurs.</desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23052214333198782</episode-num>
+    <episode-num system="onscreen">Vrije training 1 | Grand Prix van Monaco</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay_trackpos.f1">
     <display-name>VIAPLAYTPF1</display-name>
     <display-name>Viaplay Formule 1 - Track Positioning</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
+  <programme channel="viaplay_trackpos.f1" start="20230526113000 +0000" stop="20230526133500 +0000">
+    <title lang="nl">Track Positioning</title>
+    <sub-title lang="nl">Vrije training 1 | Grand Prix van Monaco</sub-title>
+    <desc lang="nl">Het kanaal geeft je een real-time overzicht van de positie van de coureurs op de baan.</desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23052273583691219</episode-num>
+    <episode-num system="onscreen">Vrije training 1 | Grand Prix van Monaco</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay_pitlane.f1">
     <display-name>VIAPLAYPF1</display-name>
     <display-name>Viaplay Formule 1 - Pitlane</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
+  <programme channel="viaplay_pitlane.f1" start="20230526113000 +0000" stop="20230526133500 +0000">
+    <title lang="nl">Pitlane</title>
+    <sub-title lang="nl">Vrije training 1 | Grand Prix van Monaco</sub-title>
+    <desc lang="nl">Zie met eigen ogen wat er tijdens de race allemaal in de pits gebeurt en ervaar de snel wisselende uitdagingen waarmee Formule 1-teams te maken krijgen.</desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23052252099598786</episode-num>
+    <episode-num system="onscreen">Vrije training 1 | Grand Prix van Monaco</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay_onboard_bottas.f1">
     <display-name>VIAPLAYOBBF1</display-name>
     <display-name>Viaplay Formule 1 - Bottas Onboard</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
+  <programme channel="viaplay_onboard_bottas.f1" start="20230526113000 +0000" stop="20230526133500 +0000">
+    <title lang="nl">Bottas Onboard</title>
+    <sub-title lang="nl">Grand Prix van Monaco</sub-title>
+    <desc lang="nl">Het is de droom van elke autoliefhebber om achter het stuur van een Formule 1-auto te zitten. Viaplay laat die droom nu uitkomen. Er is een camera in de auto geïnstalleerd, zodat je de race van start tot finish vanuit de positie van de coureur kunt bekijken. Je kunt altijd de snelheid zien en volgen hoeveel KERS en DRS er worden gebruikt.</desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23052223046105497</episode-num>
+    <episode-num system="onscreen">Grand Prix van Monaco</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay_onboard_magnussen.f1">
     <display-name>VIAPLAYOBMF1</display-name>
     <display-name>Viaplay Formule 1 - Magnussen Onboard</display-name>
@@ -325,11 +400,41 @@
     <display-name>Viaplay Formule 1 - Verstappen Onboard</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
+  <programme channel="viaplay_onboard_verstappen.f1" start="20230526113000 +0000" stop="20230526133500 +0000">
+    <title lang="nl">Verstappen Onboard</title>
+    <sub-title lang="nl">Vrije training 1 | Grand Prix van Monaco</sub-title>
+    <desc lang="nl">Het is de droom van elke autoliefhebber om achter het stuur van een Formule 1-auto te zitten. Viaplay laat die droom nu uitkomen. Er is een camera in de auto geïnstalleerd, zodat je de race van start tot finish vanuit de positie van de coureur kunt bekijken. Je kunt altijd de snelheid zien en volgen hoeveel KERS en DRS er worden gebruikt.</desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23052231867071024</episode-num>
+    <episode-num system="onscreen">Vrije training 1 | Grand Prix van Monaco</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay_onboard_mixed.f1">
     <display-name>VIAPLAYOBMXF1</display-name>
     <display-name>Viaplay Formule 1 - Onboard MIxed</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
+  <programme channel="viaplay_onboard_mixed.f1" start="20230526113000 +0000" stop="20230526133500 +0000">
+    <title lang="nl">Onboard MIxed</title>
+    <sub-title lang="nl">Grand Prix van Monaco</sub-title>
+    <desc lang="nl">Het is de droom van elke autoliefhebber om achter het stuur van een Formule 1-auto te zitten. Viaplay laat die droom nu uitkomen. Er is een camera in de auto geïnstalleerd, zodat je de race van start tot finish vanuit de positie van de coureur kunt bekijken. Je kunt altijd de snelheid zien en volgen hoeveel KERS en DRS er worden gebruikt.</desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23052208007691972</episode-num>
+    <episode-num system="onscreen">Grand Prix van Monaco</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay_shakedown.f1">
     <display-name>VIAPLAYSF1</display-name>
     <display-name>Viaplay Formule 1 - Shakedown</display-name>
