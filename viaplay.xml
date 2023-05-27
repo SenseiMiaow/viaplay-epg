@@ -1012,21 +1012,6 @@
     <display-name>Viaplay Darts</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Darts.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.darts" start="20230525175500 +0000" stop="20230525220000 +0000">
-    <title lang="nl">2023 Premier League Darts</title>
-    <sub-title lang="nl">Play-offs | Londen</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Darts</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051640580772662</episode-num>
-    <episode-num system="onscreen">Play-offs | Londen</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.darts" start="20230526110000 +0000" stop="20230526150500 +0000">
     <title lang="nl">European Darts Grand Prix</title>
     <sub-title lang="nl">Ronde 1 | European Tour</sub-title>
