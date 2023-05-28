@@ -325,16 +325,17 @@
     <display-name>Viaplay Premiere-League</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_Premiere-League.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.premiereleague" start="20230528142500 +0000" stop="20230528190000 +0000">
-    <title lang="nl">Studio Premier League</title>
-    <sub-title lang="nl"></sub-title>
+  <programme channel="viaplay.premiereleague" start="20230528152000 +0000" stop="20230528180000 +0000">
+    <title lang="nl">Leicester - West Ham</title>
+    <sub-title lang="nl">Ronde 38</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
     <category lang="en">Soccer</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23052214441408164</episode-num>
+    <episode-num system="dd_progid">S23051767940999466</episode-num>
+    <episode-num system="onscreen">Ronde 38</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
@@ -430,21 +431,6 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.premiereleague" start="20230528152000 +0000" stop="20230528180000 +0000">
-    <title lang="nl">Leicester - West Ham</title>
-    <sub-title lang="nl">Ronde 38</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051767940999466</episode-num>
-    <episode-num system="onscreen">Ronde 38</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.premiereleague" start="20230528152000 +0000" stop="20230528180000 +0000">
     <title lang="nl">Arsenal - Wolverhampton</title>
     <sub-title lang="nl">Ronde 38</sub-title>
     <desc lang="nl"></desc>
@@ -485,6 +471,20 @@
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23051741169275808</episode-num>
     <episode-num system="onscreen">Ronde 38</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230528142500 +0000" stop="20230528190000 +0000">
+    <title lang="nl">Studio Premier League</title>
+    <sub-title lang="nl"></sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23052214441408164</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
@@ -1057,21 +1057,6 @@
     <display-name>Viaplay Darts</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Darts.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.darts" start="20230526170000 +0000" stop="20230526214000 +0000">
-    <title lang="nl">European Darts Grand Prix</title>
-    <sub-title lang="nl">Ronde 1 | European Tour</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Darts</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051917774517408</episode-num>
-    <episode-num system="onscreen">Ronde 1 | European Tour</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.darts" start="20230527110000 +0000" stop="20230527153000 +0000">
     <title lang="nl">European Darts Grand Prix</title>
     <sub-title lang="nl">Ronde 2 | European Tour</sub-title>
