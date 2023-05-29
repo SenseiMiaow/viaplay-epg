@@ -628,6 +628,21 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.bundesliga" start="20230605183500 +0000" stop="20230605214500 +0000">
+    <title lang="nl">HSV - Stuttgart</title>
+    <sub-title lang="nl">Play-offs (Promotie/degradatie) | 2e wedstrijd</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23052929180361701</episode-num>
+    <episode-num system="onscreen">Play-offs (Promotie/degradatie) | 2e wedstrijd</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay.bundesliga2">
     <display-name>VIAPLAYB2</display-name>
     <display-name>Viaplay Bundesliga 2</display-name>
@@ -758,21 +773,6 @@
     <display-name>Viaplay Darts</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Darts.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.darts" start="20230527110000 +0000" stop="20230527153000 +0000">
-    <title lang="nl">European Darts Grand Prix</title>
-    <sub-title lang="nl">Ronde 2 | European Tour</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Darts</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23052252983471617</episode-num>
-    <episode-num system="onscreen">Ronde 2 | European Tour</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.darts" start="20230527170000 +0000" stop="20230527213000 +0000">
     <title lang="nl">European Darts Grand Prix</title>
     <sub-title lang="nl">Ronde 2 | European Tour</sub-title>
