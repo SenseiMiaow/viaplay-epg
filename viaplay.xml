@@ -424,122 +424,17 @@
     <display-name>Viaplay Bundesliga 2</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Bundesliga2.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.bundesliga2" start="20230528132500 +0000" stop="20230528160000 +0000">
-    <title lang="nl">Sandhausen - HSV</title>
-    <sub-title lang="nl">Ronde 34</sub-title>
+  <programme channel="viaplay.bundesliga2" start="20230602184000 +0000" stop="20230602211500 +0000">
+    <title lang="nl">Wehen Wiesbaden - Arminia Bielefeld</title>
+    <sub-title lang="nl">Promotie/degradatie 1:2</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
     <category lang="en">Soccer</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23052241594519275</episode-num>
-    <episode-num system="onscreen">Ronde 34</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga2" start="20230528132500 +0000" stop="20230528160000 +0000">
-    <title lang="nl">Greuther Fürth - Darmstadt</title>
-    <sub-title lang="nl">Ronde 34</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23052248865678622</episode-num>
-    <episode-num system="onscreen">Ronde 34</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga2" start="20230528132500 +0000" stop="20230528160000 +0000">
-    <title lang="nl">Hansa Rostock - Braunschweig</title>
-    <sub-title lang="nl">Ronde 34</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23052223167934132</episode-num>
-    <episode-num system="onscreen">Ronde 34</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga2" start="20230528132500 +0000" stop="20230528160000 +0000">
-    <title lang="nl">Magdeburg - Arminia Bielefeld</title>
-    <sub-title lang="nl">Ronde 34</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23052276591653252</episode-num>
-    <episode-num system="onscreen">Ronde 34</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga2" start="20230528132500 +0000" stop="20230528160000 +0000">
-    <title lang="nl">Hannover - Holstein Kiel</title>
-    <sub-title lang="nl">Ronde 34</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23052217557626113</episode-num>
-    <episode-num system="onscreen">Ronde 34</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga2" start="20230528132500 +0000" stop="20230528160000 +0000">
-    <title lang="nl">St. Pauli - Karlsruher</title>
-    <sub-title lang="nl">Ronde 34</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23052213083784645</episode-num>
-    <episode-num system="onscreen">Ronde 34</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga2" start="20230528132500 +0000" stop="20230528160000 +0000">
-    <title lang="nl">Paderborn - Nürnberg</title>
-    <sub-title lang="nl">Ronde 34</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23052275371274483</episode-num>
-    <episode-num system="onscreen">Ronde 34</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga2" start="20230528132500 +0000" stop="20230528160000 +0000">
-    <title lang="nl">Regensburg - Heidenheim</title>
-    <sub-title lang="nl">Ronde 34</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23052202081858045</episode-num>
-    <episode-num system="onscreen">Ronde 34</episode-num>
+    <episode-num system="dd_progid">S23053081098611054</episode-num>
+    <episode-num system="onscreen">Promotie/degradatie 1:2</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
