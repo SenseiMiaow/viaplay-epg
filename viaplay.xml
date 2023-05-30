@@ -5,21 +5,6 @@
     <display-name>Viaplay Formule 1</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.f1" start="20230528115500 +0000" stop="20230528161500 +0000">
-    <title lang="nl">Grand Prix van Monaco</title>
-    <sub-title lang="nl">Race | Studio</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Auto racing</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23051667543064391</episode-num>
-    <episode-num system="onscreen">Race | Studio</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.f1" start="20230602112000 +0000" stop="20230602134000 +0000">
     <title lang="nl">Grand Prix van Spanje</title>
     <sub-title lang="nl">Vrije training 1</sub-title>
@@ -564,21 +549,6 @@
     <display-name>Viaplay Darts</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Darts.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.darts" start="20230528110000 +0000" stop="20230528153000 +0000">
-    <title lang="nl">European Darts Grand Prix</title>
-    <sub-title lang="nl">Ronde 3 | European Tour</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Darts</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23052258830930662</episode-num>
-    <episode-num system="onscreen">Ronde 3 | European Tour</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.darts" start="20230528170000 +0000" stop="20230528213000 +0000">
     <title lang="nl">European Darts Grand Prix</title>
     <sub-title lang="nl">Kwartfinale, Halve finale &amp; Finale |  European Tour</sub-title>
