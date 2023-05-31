@@ -5,7 +5,7 @@
     <display-name>Viaplay Formule 1</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.f1" start="20230602112000 +0000" stop="20230602134000 +0000">
+  <programme channel="viaplay.f1" start="20230602112000 +0000" stop="20230602133500 +0000">
     <title lang="nl">Grand Prix van Spanje</title>
     <sub-title lang="nl">Vrije training 1</sub-title>
     <desc lang="nl"></desc>
@@ -95,7 +95,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230602135000 +0000" stop="20230602150500 +0000">
+  <programme channel="viaplay.f1" start="20230602134500 +0000" stop="20230602150500 +0000">
     <title lang="nl">Grand Prix van Spanje</title>
     <sub-title lang="nl">Kwalificatie</sub-title>
     <desc lang="nl"></desc>
@@ -251,6 +251,21 @@
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23052929180361701</episode-num>
     <episode-num system="onscreen">Play-offs (Promotie/degradatie) | 2e wedstrijd</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230601183500 +0000" stop="20230601211500 +0000">
+    <title lang="nl">Stuttgart - HSV</title>
+    <sub-title lang="nl">Play-offs (Promotie/degradatie) | 1e wedstrijd</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23052919881539026</episode-num>
+    <episode-num system="onscreen">Play-offs (Promotie/degradatie) | 1e wedstrijd</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
