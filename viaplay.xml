@@ -20,7 +20,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230602145000 +0000" stop="20230602171000 +0000">
+  <programme channel="viaplay.f1" start="20230602145000 +0000" stop="20230602175500 +0000">
     <title lang="nl">Grand Prix van Spanje</title>
     <sub-title lang="nl">Vrije training 2</sub-title>
     <desc lang="nl"></desc>
@@ -65,7 +65,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230604112000 +0000" stop="20230604164500 +0000">
+  <programme channel="viaplay.f1" start="20230604115500 +0000" stop="20230604165500 +0000">
     <title lang="nl">Grand Prix van Spanje</title>
     <sub-title lang="nl">Race | Studio</sub-title>
     <desc lang="nl"></desc>
@@ -95,7 +95,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230602135000 +0000" stop="20230602150000 +0000">
+  <programme channel="viaplay.f1" start="20230602135000 +0000" stop="20230602150500 +0000">
     <title lang="nl">Grand Prix van Spanje</title>
     <sub-title lang="nl">Kwalificatie</sub-title>
     <desc lang="nl"></desc>
@@ -155,7 +155,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230604093000 +0000" stop="20230604111500 +0000">
+  <programme channel="viaplay.f1" start="20230604092500 +0000" stop="20230604112000 +0000">
     <title lang="nl">Grand Prix van Spanje</title>
     <sub-title lang="nl">Race</sub-title>
     <desc lang="nl"></desc>
