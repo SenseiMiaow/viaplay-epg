@@ -250,21 +250,6 @@
     <display-name>Viaplay Darts</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Darts.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.darts" start="20230602230000 +0000" stop="20230603033000 +0000">
-    <title lang="nl">US Masters</title>
-    <sub-title lang="nl">Ronde 1 | World Series of Darts</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Darts</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23052423150922722</episode-num>
-    <episode-num system="onscreen">Ronde 1 | World Series of Darts</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.darts" start="20230603170000 +0000" stop="20230603213000 +0000">
     <title lang="nl">North American Championship</title>
     <sub-title lang="nl">Kwartfinale, Halve finale &amp; Finale</sub-title>
