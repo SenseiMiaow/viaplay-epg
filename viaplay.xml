@@ -5,21 +5,6 @@
     <display-name>Viaplay Formule 1</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.f1" start="20230604115500 +0000" stop="20230604164500 +0000">
-    <title lang="nl">Grand Prix van Spanje</title>
-    <sub-title lang="nl">Race | Studio</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Auto racing</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23052333307220536</episode-num>
-    <episode-num system="onscreen">Race | Studio</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.f1" start="20230616172000 +0000" stop="20230616194000 +0000">
     <title lang="nl">Grand Prix van Canada</title>
     <sub-title lang="nl">Vrije training 1</sub-title>
