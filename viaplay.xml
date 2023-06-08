@@ -140,21 +140,6 @@
     <display-name>Viaplay Bundesliga 2</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Bundesliga2.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.bundesliga2" start="20230606184000 +0000" stop="20230606211500 +0000">
-    <title lang="nl">Arminia Bielefeld - Wehen Wiesbaden</title>
-    <sub-title lang="nl">Promotie/degradatie 2:2</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23053108056711126</episode-num>
-    <episode-num system="onscreen">Promotie/degradatie 2:2</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <channel id="viaplay.darts">
     <display-name>VIAPLAYD</display-name>
     <display-name>Viaplay Darts</display-name>
