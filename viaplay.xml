@@ -50,7 +50,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230617192500 +0000" stop="20230617224500 +0000">
+  <programme channel="viaplay.f1" start="20230617185500 +0000" stop="20230617224500 +0000">
     <title lang="nl">Grand Prix van Canada</title>
     <sub-title lang="nl">Kwalificatie</sub-title>
     <desc lang="nl"></desc>
@@ -65,7 +65,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230618162000 +0000" stop="20230618214500 +0000">
+  <programme channel="viaplay.f1" start="20230618162500 +0000" stop="20230618214500 +0000">
     <title lang="nl">Grand Prix van Canada</title>
     <sub-title lang="nl">Race</sub-title>
     <desc lang="nl"></desc>
