@@ -145,7 +145,7 @@
     <display-name>Viaplay Darts</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Darts.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.darts" start="20230615165500 +0000" stop="20230615213000 +0000">
+  <programme channel="viaplay.darts" start="20230615165500 +0000" stop="20230615223000 +0000">
     <title lang="nl">World Cup of Darts</title>
     <sub-title lang="nl">Groepsfase | Ronde 1</sub-title>
     <desc lang="nl"></desc>
@@ -160,7 +160,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230616100000 +0000" stop="20230616143000 +0000">
+  <programme channel="viaplay.darts" start="20230616100000 +0000" stop="20230616153000 +0000">
     <title lang="nl">World Cup of Darts</title>
     <sub-title lang="nl">Groepsfase | Ronde 1</sub-title>
     <desc lang="nl"></desc>
@@ -175,7 +175,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230616165500 +0000" stop="20230616213000 +0000">
+  <programme channel="viaplay.darts" start="20230616165500 +0000" stop="20230616223000 +0000">
     <title lang="nl">World Cup of Darts</title>
     <sub-title lang="nl">Groepsfase | Ronde 1</sub-title>
     <desc lang="nl"></desc>
