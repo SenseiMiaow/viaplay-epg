@@ -250,7 +250,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230615165500 +0000" stop="20230615223000 +0000">
+  <programme channel="viaplay.darts" start="20230616095500 +0000" stop="20230616153000 +0000">
     <title lang="nl">World Cup of Darts</title>
     <sub-title lang="nl">Groepsfase | Ronde 1</sub-title>
     <desc lang="nl"></desc>
@@ -259,7 +259,22 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23060931946790209</episode-num>
+    <episode-num system="dd_progid">S23060997471285741</episode-num>
+    <episode-num system="onscreen">Groepsfase | Ronde 1</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.darts" start="20230616165500 +0000" stop="20230616223000 +0000">
+    <title lang="nl">World Cup of Darts</title>
+    <sub-title lang="nl">Groepsfase | Ronde 1</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Darts</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23060974718893438</episode-num>
     <episode-num system="onscreen">Groepsfase | Ronde 1</episode-num>
     <language>nl</language>
     <video></video>
