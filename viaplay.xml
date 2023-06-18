@@ -55,21 +55,6 @@
     <display-name>Viaplay Formule 1 - Backup Feed</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay_backupfeed.f1" start="20230618180000 +0000" stop="20230618213000 +0000">
-    <title lang="nl">Grand Prix van Canada (Backup Feed)</title>
-    <sub-title lang="nl">Race</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Auto racing</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23060708388522771</episode-num>
-    <episode-num system="onscreen">Race</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <channel id="viaplay_timing.f1">
     <display-name>VIAPLAYTF1</display-name>
     <display-name>Viaplay Formule 1 - Timing</display-name>
@@ -156,36 +141,6 @@
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23061264955177416</episode-num>
     <episode-num system="onscreen">Ronde 2</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.darts" start="20230618105500 +0000" stop="20230618153000 +0000">
-    <title lang="nl">World Cup of Darts</title>
-    <sub-title lang="nl">Kwartfinale</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Darts</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23061240907872291</episode-num>
-    <episode-num system="onscreen">Kwartfinale</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.darts" start="20230618165500 +0000" stop="20230618213000 +0000">
-    <title lang="nl">World Cup of Darts</title>
-    <sub-title lang="nl">Halve finale | Finale</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Darts</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23061356126880392</episode-num>
-    <episode-num system="onscreen">Halve finale | Finale</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
