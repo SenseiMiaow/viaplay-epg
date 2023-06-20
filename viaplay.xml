@@ -35,6 +35,36 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.f1" start="20230701095000 +0000" stop="20230701115500 +0000">
+    <title lang="nl">Grand Prix van Oostenrijk</title>
+    <sub-title lang="nl">Sprint Shootout</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23062091372842596</episode-num>
+    <episode-num system="onscreen">Sprint Shootout</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230701134000 +0000" stop="20230701170500 +0000">
+    <title lang="nl">Grand Prix van Oostenrijk</title>
+    <sub-title lang="nl">Sprint Race</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23062093759902029</episode-num>
+    <episode-num system="onscreen">Sprint Race</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay_backupfeed.f1">
     <display-name>VIAPLAYBFF1</display-name>
     <display-name>Viaplay Formule 1 - Backup Feed</display-name>
