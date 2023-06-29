@@ -475,4 +475,34 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.darts" start="20230630110000 +0000" stop="20230630153000 +0000">
+    <title lang="nl">European Darts Matchplay</title>
+    <sub-title lang="nl">Dag 1 | Afternoon Session</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Darts</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23062068452042382</episode-num>
+    <episode-num system="onscreen">Dag 1 | Afternoon Session</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.darts" start="20230630170000 +0000" stop="20230630213000 +0000">
+    <title lang="nl">European Darts Matchplay</title>
+    <sub-title lang="nl">Dag 1 | Evening Session</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Darts</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23062022179065129</episode-num>
+    <episode-num system="onscreen">Dag 1 | Evening Session</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
 </tv>
