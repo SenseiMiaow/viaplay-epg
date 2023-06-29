@@ -245,6 +245,21 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.f1" start="20230707130000 +0000" stop="20230707142000 +0000">
+    <title lang="nl">Grand Prix van Groot-Brittannië</title>
+    <sub-title lang="nl">Kwalificatie</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23062787246050467</episode-num>
+    <episode-num system="onscreen">Kwalificatie</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay_backupfeed.f1">
     <display-name>VIAPLAYBFF1</display-name>
     <display-name>Viaplay Formule 1 - Backup Feed</display-name>
@@ -411,6 +426,36 @@
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23062162229952722</episode-num>
     <episode-num system="onscreen">Dag 3 | Evening Session</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.darts" start="20230707170000 +0000" stop="20230707213000 +0000">
+    <title lang="nl">Poland Darts Masters</title>
+    <sub-title lang="nl">Achtste finale</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Darts</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23062935633001356</episode-num>
+    <episode-num system="onscreen">Achtste finale</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.darts" start="20230708170000 +0000" stop="20230708213000 +0000">
+    <title lang="nl">Poland Darts Masters</title>
+    <sub-title lang="nl">Kwartfinale | Halve finale | Finale</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Darts</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23062990434304118</episode-num>
+    <episode-num system="onscreen">Kwartfinale | Halve finale | Finale</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
