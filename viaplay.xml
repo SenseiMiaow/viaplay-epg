@@ -535,32 +535,32 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230701110000 +0000" stop="20230701153000 +0000">
+  <programme channel="viaplay.darts" start="20230702110000 +0000" stop="20230702153000 +0000">
     <title lang="nl">European Darts Matchplay</title>
-    <sub-title lang="nl">Dag 2 | Afternoon Session</sub-title>
+    <sub-title lang="nl">Dag 3 | Afternoon Session</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
     <category lang="en">Darts</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23062103193393812</episode-num>
-    <episode-num system="onscreen">Dag 2 | Afternoon Session</episode-num>
+    <episode-num system="dd_progid">S23062118140410620</episode-num>
+    <episode-num system="onscreen">Dag 3 | Afternoon Session</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230701170000 +0000" stop="20230701213000 +0000">
+  <programme channel="viaplay.darts" start="20230702170000 +0000" stop="20230702213000 +0000">
     <title lang="nl">European Darts Matchplay</title>
-    <sub-title lang="nl">Dag 2 | Evening Session</sub-title>
+    <sub-title lang="nl">Dag 3 | Evening Session</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
     <category lang="en">Darts</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23062112087964664</episode-num>
-    <episode-num system="onscreen">Dag 2 | Evening Session</episode-num>
+    <episode-num system="dd_progid">S23062162229952722</episode-num>
+    <episode-num system="onscreen">Dag 3 | Evening Session</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
