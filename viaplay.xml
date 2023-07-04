@@ -265,7 +265,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230707164500 +0000" stop="20230707213500 +0000">
+  <programme channel="viaplay.darts" start="20230707165500 +0000" stop="20230707220000 +0000">
     <title lang="nl">Polish Darts Masters</title>
     <sub-title lang="nl">Achtste finale</sub-title>
     <desc lang="nl"></desc>
@@ -280,7 +280,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230708170000 +0000" stop="20230708213000 +0000">
+  <programme channel="viaplay.darts" start="20230708165500 +0000" stop="20230708220000 +0000">
     <title lang="nl">Polish Darts Masters</title>
     <sub-title lang="nl">Kwartfinale | Halve finale | Finale</sub-title>
     <desc lang="nl"></desc>
@@ -336,6 +336,21 @@
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23070473918500114</episode-num>
     <episode-num system="onscreen">Ronde 1 | Dag 2</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.darts" start="20230717180000 +0000" stop="20230717223000 +0000">
+    <title lang="nl">2023 World Matchplay Darts</title>
+    <sub-title lang="nl">1Ronde | Dag 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Darts</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23070470596654856</episode-num>
+    <episode-num system="onscreen">1Ronde | Dag 3</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
