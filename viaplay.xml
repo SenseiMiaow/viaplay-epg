@@ -95,21 +95,6 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230702074500 +0000" stop="20230702094000 +0000">
-    <title lang="nl">Grand Prix van Oostenrijk</title>
-    <sub-title lang="nl">Race</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Auto racing</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23062158779818197</episode-num>
-    <episode-num system="onscreen">Race</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.f1" start="20230707130000 +0000" stop="20230707142000 +0000">
     <title lang="nl">Grand Prix van Groot-Brittannië</title>
     <sub-title lang="nl">Kwalificatie</sub-title>
@@ -336,6 +321,51 @@
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23062990434304118</episode-num>
     <episode-num system="onscreen">Kwartfinale | Halve finale | Finale</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.darts" start="20230715180000 +0000" stop="20230715223000 +0000">
+    <title lang="nl">2023 World Matchplay Darts</title>
+    <sub-title lang="nl">Ronde 1 | Dag 1</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Darts</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23070405362167409</episode-num>
+    <episode-num system="onscreen">Ronde 1 | Dag 1</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.darts" start="20230716120000 +0000" stop="20230716163000 +0000">
+    <title lang="nl">2023 World Matchplay Darts</title>
+    <sub-title lang="nl">Ronde 1 | Dag 2</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Darts</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23070461563535918</episode-num>
+    <episode-num system="onscreen">Ronde 1 | Dag 2</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.darts" start="20230716183000 +0000" stop="20230716230000 +0000">
+    <title lang="nl">2023 World Matchplay Darts</title>
+    <sub-title lang="nl">Ronde 1 | Dag 2</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Darts</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23070473918500114</episode-num>
+    <episode-num system="onscreen">Ronde 1 | Dag 2</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
