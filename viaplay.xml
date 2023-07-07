@@ -315,6 +315,21 @@
     <display-name>Viaplay Formule 1 - Onboard MIxed</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
+  <programme channel="viaplay_onboard_mixed.f1" start="20230707113000 +0000" stop="20230707133500 +0000">
+    <title lang="nl">Onboard Mixed</title>
+    <sub-title lang="nl">Grand Prix van Groot-Brittannië | Vrije training 1</sub-title>
+    <desc lang="nl">Het is de droom van elke autoliefhebber om achter het stuur van een Formule 1-auto te zitten. Viaplay laat die droom nu uitkomen. Er is een camera in de auto geïnstalleerd, zodat je de race van start tot finish vanuit de positie van de coureur kunt bekijken. Je kunt altijd de snelheid zien en volgen hoeveel KERS en DRS er worden gebruikt.</desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23063087633321920</episode-num>
+    <episode-num system="onscreen">Grand Prix van Groot-Brittannië | Vrije training 1</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay_shakedown.f1">
     <display-name>VIAPLAYSF1</display-name>
     <display-name>Viaplay Formule 1 - Shakedown</display-name>
