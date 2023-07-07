@@ -295,7 +295,7 @@
     <display-name>Viaplay Darts</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Darts.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.darts" start="20230707165500 +0000" stop="20230707220000 +0000">
+  <programme channel="viaplay.darts" start="20230707165500 +0000" stop="20230707212000 +0000">
     <title lang="nl">Poland Darts Masters</title>
     <sub-title lang="nl">Achtste finale</sub-title>
     <desc lang="nl"></desc>
@@ -430,17 +430,17 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230707165500 +0000" stop="20230707220000 +0000">
+  <programme channel="viaplay.darts" start="20230708165500 +0000" stop="20230708220000 +0000">
     <title lang="nl">Poland Darts Masters</title>
-    <sub-title lang="nl">Achtste finale</sub-title>
+    <sub-title lang="nl">Kwartfinale | Halve finale | Finale</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
     <category lang="en">Darts</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23062935633001356</episode-num>
-    <episode-num system="onscreen">Achtste finale</episode-num>
+    <episode-num system="dd_progid">S23062990434304118</episode-num>
+    <episode-num system="onscreen">Kwartfinale | Halve finale | Finale</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
