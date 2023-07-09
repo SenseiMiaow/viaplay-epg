@@ -250,7 +250,7 @@
     <display-name>Viaplay Formule 1 - Pitlane</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay_pitlane.f1" start="20230709140000 +0000" stop="20230709173000 +0000">
+  <programme channel="viaplay_pitlane.f1" start="20230709140000 +0000" stop="20230709161500 +0000">
     <title lang="nl">Pitlane</title>
     <sub-title lang="nl">Grand Prix van Groot-Brittannië | Race</sub-title>
     <desc lang="nl">Zie met eigen ogen wat er tijdens de race allemaal in de pits gebeurt en ervaar de snel wisselende uitdagingen waarmee Formule 1-teams te maken krijgen.</desc>
