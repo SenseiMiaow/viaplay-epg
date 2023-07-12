@@ -190,7 +190,7 @@
     <display-name>Viaplay Darts</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Darts.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.darts" start="20230715180000 +0000" stop="20230715223000 +0000">
+  <programme channel="viaplay.darts" start="20230715175500 +0000" stop="20230715223000 +0000">
     <title lang="nl">2023 World Matchplay Darts</title>
     <sub-title lang="nl">Ronde 1 | Dag 1</sub-title>
     <desc lang="nl"></desc>
