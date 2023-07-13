@@ -51,7 +51,7 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.f1" start="20230722132500 +0000" stop="20230722164500 +0000">
-    <title lang="nl">Hungarian Grand Prix</title>
+    <title lang="nl">Grand Prix van Hongarije</title>
     <sub-title lang="nl">Kwalificatie</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -76,6 +76,21 @@
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23070549459206360</episode-num>
     <episode-num system="onscreen">Race</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230721130000 +0000" stop="20230721141000 +0000">
+    <title lang="nl">Grand Prix van Hongarije</title>
+    <sub-title lang="nl">Kwalificatie</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23071084600738933</episode-num>
+    <episode-num system="onscreen">Kwalificatie</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
