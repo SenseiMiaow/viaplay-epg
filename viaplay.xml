@@ -430,4 +430,19 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.darts" start="20230715175500 +0000" stop="20230715223000 +0000">
+    <title lang="nl">2023 World Matchplay Darts</title>
+    <sub-title lang="nl">Ronde 1 | Dag 1</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Darts</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23070405362167409</episode-num>
+    <episode-num system="onscreen">Ronde 1 | Dag 1</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
 </tv>
