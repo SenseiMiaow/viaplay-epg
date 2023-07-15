@@ -140,6 +140,21 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.f1" start="20230723061000 +0000" stop="20230723075000 +0000">
+    <title lang="nl">Grand Prix van Hongarije</title>
+    <sub-title lang="nl">Race</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23071108861844259</episode-num>
+    <episode-num system="onscreen">Race</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay_backupfeed.f1">
     <display-name>VIAPLAYBFF1</display-name>
     <display-name>Viaplay Formule 1 - Backup Feed</display-name>
