@@ -460,32 +460,17 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230716115500 +0000" stop="20230716163000 +0000">
+  <programme channel="viaplay.darts" start="20230717180000 +0000" stop="20230717223000 +0000">
     <title lang="nl">2023 World Matchplay Darts</title>
-    <sub-title lang="nl">Ronde 1 | Dag 2</sub-title>
+    <sub-title lang="nl">1Ronde | Dag 3</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
     <category lang="en">Darts</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23070461563535918</episode-num>
-    <episode-num system="onscreen">Ronde 1 | Dag 2</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.darts" start="20230716175500 +0000" stop="20230716230000 +0000">
-    <title lang="nl">2023 World Matchplay Darts</title>
-    <sub-title lang="nl">Ronde 1 | Dag 2</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Darts</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23070473918500114</episode-num>
-    <episode-num system="onscreen">Ronde 1 | Dag 2</episode-num>
+    <episode-num system="dd_progid">S23070470596654856</episode-num>
+    <episode-num system="onscreen">1Ronde | Dag 3</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
