@@ -95,7 +95,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230721135000 +0000" stop="20230721163000 +0000">
+  <programme channel="viaplay.f1" start="20230721134500 +0000" stop="20230721163000 +0000">
     <title lang="nl">Grand Prix van Hongarije</title>
     <sub-title lang="nl">Kwalificatie</sub-title>
     <desc lang="nl"></desc>
@@ -110,7 +110,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230722074500 +0000" stop="20230722091000 +0000">
+  <programme channel="viaplay.f1" start="20230722074000 +0000" stop="20230722091000 +0000">
     <title lang="nl">Grand Prix van Hongarije</title>
     <sub-title lang="nl">Sprint Race</sub-title>
     <desc lang="nl"></desc>
