@@ -140,7 +140,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230723061000 +0000" stop="20230723075000 +0000">
+  <programme channel="viaplay.f1" start="20230723061500 +0000" stop="20230723075000 +0000">
     <title lang="nl">Grand Prix van Hongarije</title>
     <sub-title lang="nl">Race</sub-title>
     <desc lang="nl"></desc>
@@ -445,7 +445,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230723190000 +0000" stop="20230723213000 +0000">
+  <programme channel="viaplay.darts" start="20230723185500 +0000" stop="20230723213000 +0000">
     <title lang="nl">2023 World Matchplay Darts</title>
     <sub-title lang="nl">Finale</sub-title>
     <desc lang="nl"></desc>
