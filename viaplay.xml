@@ -355,7 +355,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230720185500 +0000" stop="20230720223000 +0000">
+  <programme channel="viaplay.darts" start="20230720185500 +0000" stop="20230720223500 +0000">
     <title lang="nl">2023 World Matchplay Darts</title>
     <sub-title lang="nl">Kwartfinale | Dag 6</sub-title>
     <desc lang="nl"></desc>
@@ -430,7 +430,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230720185500 +0000" stop="20230720223000 +0000">
+  <programme channel="viaplay.darts" start="20230720185500 +0000" stop="20230720223500 +0000">
     <title lang="nl">2023 World Matchplay Darts</title>
     <sub-title lang="nl">Kwartfinale | Dag 6</sub-title>
     <desc lang="nl"></desc>
