@@ -275,6 +275,36 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.f1" start="20230729075000 +0000" stop="20230729092000 +0000">
+    <title lang="nl">Grand Prix van België</title>
+    <sub-title lang="nl">Sprint Race</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23072194164483237</episode-num>
+    <episode-num system="onscreen">Sprint Race</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230729113500 +0000" stop="20230729131500 +0000">
+    <title lang="nl">Grand Prix van België</title>
+    <sub-title lang="nl">Sprint Race</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23072165736421806</episode-num>
+    <episode-num system="onscreen">Sprint Race</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay_backupfeed.f1">
     <display-name>VIAPLAYBFF1</display-name>
     <display-name>Viaplay Formule 1 - Backup Feed</display-name>
@@ -295,41 +325,11 @@
     <display-name>Viaplay Formule 1 - Pitlane</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay_pitlane.f1" start="20230721113000 +0000" stop="20230721133500 +0000">
-    <title lang="nl">Pitlane</title>
-    <sub-title lang="nl">Grand Prix van Hongarije | Vrije training 1</sub-title>
-    <desc lang="nl">Zie met eigen ogen wat er tijdens de race allemaal in de pits gebeurt en ervaar de snel wisselende uitdagingen waarmee Formule 1-teams te maken krijgen.</desc>
-    <credits></credits>
-    <category lang="en">Auto racing</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23070696350081988</episode-num>
-    <episode-num system="onscreen">Grand Prix van Hongarije | Vrije training 1</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <channel id="viaplay_onboard_bottas.f1">
     <display-name>VIAPLAYOBBF1</display-name>
     <display-name>Viaplay Formule 1 - Bottas Onboard</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay_onboard_bottas.f1" start="20230721113000 +0000" stop="20230721133500 +0000">
-    <title lang="nl">Bottas Onboard</title>
-    <sub-title lang="nl">Hungarian Grand Prix | Träning 1</sub-title>
-    <desc lang="nl">Het is de droom van elke autoliefhebber om achter het stuur van een Formule 1-auto te zitten. Viaplay laat die droom nu uitkomen. Er is een camera in de auto geïnstalleerd, zodat je de race van start tot finish vanuit de positie van de coureur kunt bekijken. Je kunt altijd de snelheid zien en volgen hoeveel KERS en DRS er worden gebruikt.</desc>
-    <credits></credits>
-    <category lang="en">Auto racing</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23071110700708082</episode-num>
-    <episode-num system="onscreen">Hungarian Grand Prix | Träning 1</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <channel id="viaplay_onboard_magnussen.f1">
     <display-name>VIAPLAYOBMF1</display-name>
     <display-name>Viaplay Formule 1 - Magnussen Onboard</display-name>
