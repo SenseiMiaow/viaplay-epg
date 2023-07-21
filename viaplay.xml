@@ -475,6 +475,21 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.premiereleague" start="20230722225000 +0000" stop="20230723013000 +0000">
+    <title lang="nl">Chelsea - Brighton</title>
+    <sub-title lang="nl">Summer Series</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23062244009716605</episode-num>
+    <episode-num system="onscreen">Summer Series</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay.bundesliga">
     <display-name>VIAPLAYB1</display-name>
     <display-name>Viaplay Bundesliga</display-name>
@@ -580,17 +595,17 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230721185500 +0000" stop="20230721223000 +0000">
+  <programme channel="viaplay.darts" start="20230722185500 +0000" stop="20230722223000 +0000">
     <title lang="nl">2023 World Matchplay Darts</title>
-    <sub-title lang="nl">Kwartfinale</sub-title>
+    <sub-title lang="nl">Halve finale</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
     <category lang="en">Darts</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23071000727084758</episode-num>
-    <episode-num system="onscreen">Kwartfinale</episode-num>
+    <episode-num system="dd_progid">S23071127925606512</episode-num>
+    <episode-num system="onscreen">Halve finale</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
