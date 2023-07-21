@@ -80,6 +80,21 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.f1" start="20230728112000 +0000" stop="20230728134000 +0000">
+    <title lang="nl">Grand Prix van België</title>
+    <sub-title lang="nl">Vrije training 1</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23072099103072407</episode-num>
+    <episode-num system="onscreen">Vrije training 1</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <programme channel="viaplay.f1" start="20230721125000 +0000" stop="20230721141000 +0000">
     <title lang="nl">Grand Prix van Hongarije</title>
     <sub-title lang="nl">Kwalificatie</sub-title>
@@ -166,6 +181,21 @@
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23070666820167175</episode-num>
     <episode-num system="onscreen">Race</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230728125500 +0000" stop="20230728140500 +0000">
+    <title lang="nl">Grand Prix van België</title>
+    <sub-title lang="nl">Kwalificatie</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23072196979381445</episode-num>
+    <episode-num system="onscreen">Kwalificatie</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
