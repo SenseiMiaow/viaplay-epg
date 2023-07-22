@@ -550,21 +550,6 @@
     <display-name>Viaplay Darts</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Darts.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.darts" start="20230720185500 +0000" stop="20230720223500 +0000">
-    <title lang="nl">2023 World Matchplay Darts</title>
-    <sub-title lang="nl">Kwartfinale | Dag 6</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Darts</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23070657903838685</episode-num>
-    <episode-num system="onscreen">Kwartfinale | Dag 6</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.darts" start="20230721185500 +0000" stop="20230721223000 +0000">
     <title lang="nl">2023 World Matchplay Darts</title>
     <sub-title lang="nl">Kwartfinale</sub-title>
