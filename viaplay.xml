@@ -520,6 +520,36 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.premiereleague" start="20230723195000 +0000" stop="20230723223000 +0000">
+    <title lang="nl">Fulham - Brentford</title>
+    <sub-title lang="nl">Summer Series</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23070793538146345</episode-num>
+    <episode-num system="onscreen">Summer Series</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230723225000 +0000" stop="20230724013000 +0000">
+    <title lang="nl">Newcastle - Aston Villa</title>
+    <sub-title lang="nl">Summer Series</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23071244060311121</episode-num>
+    <episode-num system="onscreen">Summer Series</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay.bundesliga">
     <display-name>VIAPLAYB1</display-name>
     <display-name>Viaplay Bundesliga</display-name>
@@ -610,17 +640,32 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.darts" start="20230722185500 +0000" stop="20230722223000 +0000">
-    <title lang="nl">2023 World Matchplay Darts</title>
-    <sub-title lang="nl">Halve finale</sub-title>
+  <programme channel="viaplay.darts" start="20230723115500 +0000" stop="20230723163000 +0000">
+    <title lang="nl">2023 Women's World Matchplay Darts</title>
+    <sub-title lang="nl">Kwartfinale | Halve finale | Finale</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
     <category lang="en">Darts</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23071127925606512</episode-num>
-    <episode-num system="onscreen">Halve finale</episode-num>
+    <episode-num system="dd_progid">S23071181515303801</episode-num>
+    <episode-num system="onscreen">Kwartfinale | Halve finale | Finale</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.darts" start="20230723185500 +0000" stop="20230723213000 +0000">
+    <title lang="nl">2023 World Matchplay Darts</title>
+    <sub-title lang="nl">Finale</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Darts</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23071181855906045</episode-num>
+    <episode-num system="onscreen">Finale</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
