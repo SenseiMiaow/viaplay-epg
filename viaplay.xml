@@ -35,7 +35,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230729095000 +0000" stop="20230729115500 +0000">
+  <programme channel="viaplay.f1" start="20230729094000 +0000" stop="20230729121500 +0000">
     <title lang="nl">Grand Prix van België</title>
     <sub-title lang="nl">Sprint Shootout</sub-title>
     <desc lang="nl"></desc>
