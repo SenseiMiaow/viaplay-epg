@@ -5,21 +5,6 @@
     <display-name>Viaplay Formule 1</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.f1" start="20230723115500 +0000" stop="20230723155500 +0000">
-    <title lang="nl">Grand Prix van Hongarije</title>
-    <sub-title lang="nl">Race</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Auto racing</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23070549459206360</episode-num>
-    <episode-num system="onscreen">Race</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.f1" start="20230728112000 +0000" stop="20230728134000 +0000">
     <title lang="nl">Grand Prix van België</title>
     <sub-title lang="nl">Vrije training 1</sub-title>
@@ -370,21 +355,6 @@
     <display-name>Viaplay Darts</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Darts.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.darts" start="20230723115500 +0000" stop="20230723163000 +0000">
-    <title lang="nl">2023 Women's World Matchplay Darts</title>
-    <sub-title lang="nl">Kwartfinale | Halve finale | Finale</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Darts</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23071181515303801</episode-num>
-    <episode-num system="onscreen">Kwartfinale | Halve finale | Finale</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.darts" start="20230723185500 +0000" stop="20230723213000 +0000">
     <title lang="nl">2023 World Matchplay Darts</title>
     <sub-title lang="nl">Finale</sub-title>
