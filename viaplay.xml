@@ -5,7 +5,7 @@
     <display-name>Viaplay Formule 1</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.f1" start="20230728112000 +0000" stop="20230728134000 +0000">
+  <programme channel="viaplay.f1" start="20230728112000 +0000" stop="20230728133500 +0000">
     <title lang="nl">Grand Prix van België</title>
     <sub-title lang="nl">Vrije training 1</sub-title>
     <desc lang="nl"></desc>
@@ -20,7 +20,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230728145000 +0000" stop="20230728171500 +0000">
+  <programme channel="viaplay.f1" start="20230728144000 +0000" stop="20230728175500 +0000">
     <title lang="nl">Grand Prix van België</title>
     <sub-title lang="nl">Kwalificatie</sub-title>
     <desc lang="nl"></desc>
