@@ -408,6 +408,36 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.bundesliga2" start="20230730112500 +0000" stop="20230730140000 +0000">
+    <title lang="nl">Hansa Rostock - Nürnberg</title>
+    <sub-title lang="nl">Ronde 1</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23072606476894924</episode-num>
+    <episode-num system="onscreen">Ronde 1</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230730112500 +0000" stop="20230730140000 +0000">
+    <title lang="nl">Greuther Furth - Paderborn</title>
+    <sub-title lang="nl">Ronde 1</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23072690111955330</episode-num>
+    <episode-num system="onscreen">Ronde 1</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay.darts">
     <display-name>VIAPLAYD</display-name>
     <display-name>Viaplay Darts</display-name>
