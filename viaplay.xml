@@ -80,7 +80,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230728125500 +0000" stop="20230728140500 +0000">
+  <programme channel="viaplay.f1" start="20230728125000 +0000" stop="20230728141000 +0000">
     <title lang="nl">Grand Prix van België</title>
     <sub-title lang="nl">Kwalificatie</sub-title>
     <desc lang="nl"></desc>
