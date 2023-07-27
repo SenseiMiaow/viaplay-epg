@@ -282,7 +282,7 @@
   </programme>
   <programme channel="viaplay.premiereleague" start="20230730155000 +0000" stop="20230730183000 +0000">
     <title lang="nl">Aston Villa - Brentford</title>
-    <sub-title lang="nl"></sub-title>
+    <sub-title lang="nl">Summer Series</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
     <category lang="en">Soccer</category>
@@ -290,13 +290,14 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23072511207561171</episode-num>
+    <episode-num system="onscreen">Summer Series</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
   </programme>
   <programme channel="viaplay.premiereleague" start="20230730183500 +0000" stop="20230730211500 +0000">
     <title lang="nl">Chelsea - Fulham</title>
-    <sub-title lang="nl"></sub-title>
+    <sub-title lang="nl">Summer Series</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
     <category lang="en">Soccer</category>
@@ -304,6 +305,7 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23072682288915266</episode-num>
+    <episode-num system="onscreen">Summer Series</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
