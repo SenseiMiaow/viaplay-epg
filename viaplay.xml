@@ -235,7 +235,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230726225000 +0000" stop="20230727013000 +0000">
+  <programme channel="viaplay.premiereleague" start="20230726235000 +0000" stop="20230727023000 +0000">
     <title lang="nl">Fulham - Aston Villa</title>
     <sub-title lang="nl">Summer Series</sub-title>
     <desc lang="nl"></desc>
@@ -323,7 +323,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230726225000 +0000" stop="20230727013000 +0000">
+  <programme channel="viaplay.premiereleague" start="20230726235000 +0000" stop="20230727023000 +0000">
     <title lang="nl">Fulham - Aston Villa</title>
     <sub-title lang="nl">Summer Series</sub-title>
     <desc lang="nl"></desc>
