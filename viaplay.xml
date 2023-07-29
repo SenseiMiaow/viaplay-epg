@@ -280,8 +280,8 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230728232000 +0000" stop="20230729020000 +0000">
-    <title lang="nl">Brighton - Newcastle</title>
+  <programme channel="viaplay.premiereleague" start="20230730155000 +0000" stop="20230730183000 +0000">
+    <title lang="nl">Aston Villa - Brentford</title>
     <sub-title lang="nl">Summer Series</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -289,7 +289,22 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23072172446629191</episode-num>
+    <episode-num system="dd_progid">S23072511207561171</episode-num>
+    <episode-num system="onscreen">Summer Series</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230730183500 +0000" stop="20230730211500 +0000">
+    <title lang="nl">Chelsea - Fulham</title>
+    <sub-title lang="nl">Summer Series</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23072682288915266</episode-num>
     <episode-num system="onscreen">Summer Series</episode-num>
     <language>nl</language>
     <video></video>
@@ -440,8 +455,8 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230729105500 +0000" stop="20230729130500 +0000">
-    <title lang="nl">Wehen Wiesbaden - Magdeburg</title>
+  <programme channel="viaplay.bundesliga2" start="20230730112500 +0000" stop="20230730140000 +0000">
+    <title lang="nl">Braunschweig - Holstein Kiel</title>
     <sub-title lang="nl">Ronde 1</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -449,14 +464,14 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23072639505171965</episode-num>
+    <episode-num system="dd_progid">S23072623016178342</episode-num>
     <episode-num system="onscreen">Ronde 1</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230729105500 +0000" stop="20230729130500 +0000">
-    <title lang="nl">Osnabrück - Karlsruher</title>
+  <programme channel="viaplay.bundesliga2" start="20230730112500 +0000" stop="20230730140000 +0000">
+    <title lang="nl">Hansa Rostock - Nürnberg</title>
     <sub-title lang="nl">Ronde 1</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -464,14 +479,14 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23072637489409199</episode-num>
+    <episode-num system="dd_progid">S23072606476894924</episode-num>
     <episode-num system="onscreen">Ronde 1</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230729105500 +0000" stop="20230729130500 +0000">
-    <title lang="nl">Hannover 96 - Elversberg</title>
+  <programme channel="viaplay.bundesliga2" start="20230730112500 +0000" stop="20230730140000 +0000">
+    <title lang="nl">Greuther Furth - Paderborn</title>
     <sub-title lang="nl">Ronde 1</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -479,37 +494,7 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23072618970591691</episode-num>
-    <episode-num system="onscreen">Ronde 1</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga2" start="20230729105500 +0000" stop="20230729130500 +0000">
-    <title lang="nl">Kaiserslautern - St. Pauli</title>
-    <sub-title lang="nl">Ronde 1</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23072699188472060</episode-num>
-    <episode-num system="onscreen">Ronde 1</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga2" start="20230729182500 +0000" stop="20230729210000 +0000">
-    <title lang="nl">Fortuna Düsseldorf - Hertha Berlin</title>
-    <sub-title lang="nl">Ronde 1</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23072679592109711</episode-num>
+    <episode-num system="dd_progid">S23072690111955330</episode-num>
     <episode-num system="onscreen">Ronde 1</episode-num>
     <language>nl</language>
     <video></video>
