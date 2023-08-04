@@ -160,6 +160,51 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.premiereleague" start="20230813122500 +0000" stop="20230813155500 +0000">
+    <title lang="nl">Brentford - Tottenham</title>
+    <sub-title lang="nl">Ronde 1 | Studio</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23080419824933562</episode-num>
+    <episode-num system="onscreen">Ronde 1 | Studio</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230813150000 +0000" stop="20230813183000 +0000">
+    <title lang="nl">Chelsea - Liverpool</title>
+    <sub-title lang="nl">Ronde 1 | Studio</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23080445818811089</episode-num>
+    <episode-num system="onscreen">Ronde 1 | Studio</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230814181000 +0000" stop="20230814220000 +0000">
+    <title lang="nl">Man United - Wolverhampton</title>
+    <sub-title lang="nl">Ronde 1 | Studio</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23080454485790241</episode-num>
+    <episode-num system="onscreen">Ronde 1 | Studio</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay.bundesliga">
     <display-name>VIAPLAYB1</display-name>
     <display-name>Viaplay Bundesliga</display-name>
