@@ -85,6 +85,21 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.premiereleague" start="20230812135000 +0000" stop="20230812163000 +0000">
+    <title lang="nl">Bournemouth - West Ham</title>
+    <sub-title lang="nl">Ronde 1</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23080499608272216</episode-num>
+    <episode-num system="onscreen">Ronde 1</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay.bundesliga">
     <display-name>VIAPLAYB1</display-name>
     <display-name>Viaplay Bundesliga</display-name>
