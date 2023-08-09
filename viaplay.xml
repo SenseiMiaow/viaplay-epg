@@ -70,7 +70,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230812102500 +0000" stop="20230812135500 +0000">
+  <programme channel="viaplay.premiereleague" start="20230812105500 +0000" stop="20230812143000 +0000">
     <title lang="nl">Arsenal - Nottingham Forest</title>
     <sub-title lang="nl">Ronde 1 | Studio</sub-title>
     <desc lang="nl"></desc>
@@ -81,6 +81,21 @@
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23080354646543633</episode-num>
     <episode-num system="onscreen">Ronde 1 | Studio</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230812135000 +0000" stop="20230812163000 +0000">
+    <title lang="nl">Sheffield United - Crystal Palace</title>
+    <sub-title lang="nl">Ronde 1</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23080424180448661</episode-num>
+    <episode-num system="onscreen">Ronde 1</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
@@ -116,21 +131,6 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.premiereleague" start="20230812135000 +0000" stop="20230812163000 +0000">
-    <title lang="nl">Sheffield United - Crystal Palace</title>
-    <sub-title lang="nl">Ronde 1</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23080424180448661</episode-num>
-    <episode-num system="onscreen">Ronde 1</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.premiereleague" start="20230812135000 +0000" stop="20230812163000 +0000">
     <title lang="nl">Everton - Fulham</title>
     <sub-title lang="nl">Ronde 1</sub-title>
     <desc lang="nl"></desc>
@@ -145,7 +145,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230812161500 +0000" stop="20230812190000 +0000">
+  <programme channel="viaplay.premiereleague" start="20230812162000 +0000" stop="20230812190000 +0000">
     <title lang="nl">Newcastle - Aston Villa</title>
     <sub-title lang="nl">Ronde 1</sub-title>
     <desc lang="nl"></desc>
