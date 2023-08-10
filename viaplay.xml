@@ -220,6 +220,36 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.premiereleague" start="20230819135000 +0000" stop="20230819163000 +0000">
+    <title lang="nl">Wolverhampton - Brighton</title>
+    <sub-title lang="nl">Ronde 2</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081077422132096</episode-num>
+    <episode-num system="onscreen">Ronde 2</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230819135000 +0000" stop="20230819163000 +0000">
+    <title lang="nl">Fulham - Brentford</title>
+    <sub-title lang="nl">Ronde 2</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081052338544365</episode-num>
+    <episode-num system="onscreen">Ronde 2</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay.bundesliga">
     <display-name>VIAPLAYB1</display-name>
     <display-name>Viaplay Bundesliga</display-name>
