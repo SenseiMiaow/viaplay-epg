@@ -160,7 +160,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230812162000 +0000" stop="20230812190000 +0000">
+  <programme channel="viaplay.premiereleague" start="20230812162000 +0000" stop="20230812184500 +0000">
     <title lang="nl">Newcastle - Aston Villa</title>
     <sub-title lang="nl">Ronde 1</sub-title>
     <desc lang="nl"></desc>
@@ -415,7 +415,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230812162000 +0000" stop="20230812190000 +0000">
+  <programme channel="viaplay.premiereleague" start="20230812162000 +0000" stop="20230812184500 +0000">
     <title lang="nl">Newcastle - Aston Villa</title>
     <sub-title lang="nl">Ronde 1</sub-title>
     <desc lang="nl"></desc>
