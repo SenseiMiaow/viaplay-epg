@@ -160,7 +160,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230813122500 +0000" stop="20230813155500 +0000">
+  <programme channel="viaplay.premiereleague" start="20230813122500 +0000" stop="20230813153000 +0000">
     <title lang="nl">Brentford - Tottenham</title>
     <sub-title lang="nl">Ronde 1 | Studio</sub-title>
     <desc lang="nl"></desc>
@@ -175,7 +175,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230813150000 +0000" stop="20230813183000 +0000">
+  <programme channel="viaplay.premiereleague" start="20230813150500 +0000" stop="20230813180000 +0000">
     <title lang="nl">Chelsea - Liverpool</title>
     <sub-title lang="nl">Ronde 1 | Studio</sub-title>
     <desc lang="nl"></desc>
@@ -325,7 +325,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230813122500 +0000" stop="20230813155500 +0000">
+  <programme channel="viaplay.premiereleague" start="20230813122500 +0000" stop="20230813153000 +0000">
     <title lang="nl">Brentford - Tottenham</title>
     <sub-title lang="nl">Ronde 1 | Studio</sub-title>
     <desc lang="nl"></desc>
@@ -340,7 +340,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.premiereleague" start="20230813150000 +0000" stop="20230813183000 +0000">
+  <programme channel="viaplay.premiereleague" start="20230813150500 +0000" stop="20230813180000 +0000">
     <title lang="nl">Chelsea - Liverpool</title>
     <sub-title lang="nl">Ronde 1 | Studio</sub-title>
     <desc lang="nl"></desc>
