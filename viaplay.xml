@@ -380,7 +380,7 @@
     <display-name>Viaplay Bundesliga 2</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Bundesliga2.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.bundesliga2" start="20230818162500 +0000" stop="20230818190000 +0000">
+  <programme channel="viaplay.bundesliga2" start="20230818162000 +0000" stop="20230818190000 +0000">
     <title lang="nl">Kaiserslautern - Elversberg</title>
     <sub-title lang="nl">Ronde 3</sub-title>
     <desc lang="nl"></desc>
@@ -395,7 +395,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230818162500 +0000" stop="20230818190000 +0000">
+  <programme channel="viaplay.bundesliga2" start="20230818162000 +0000" stop="20230818190000 +0000">
     <title lang="nl">Wehen Wiesbaden - Karlsruher</title>
     <sub-title lang="nl">Ronde 3</sub-title>
     <desc lang="nl"></desc>
@@ -415,19 +415,4 @@
     <display-name>Viaplay Darts</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Darts.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.darts" start="20230812085500 +0000" stop="20230812133000 +0000">
-    <title lang="nl">New South Wales Darts Masters</title>
-    <sub-title lang="nl">Kwartfinale, Halve finale &amp; Finale | World Series of Darts</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Darts</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23080307892737341</episode-num>
-    <episode-num system="onscreen">Kwartfinale, Halve finale &amp; Finale | World Series of Darts</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
 </tv>
