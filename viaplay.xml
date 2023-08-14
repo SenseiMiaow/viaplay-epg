@@ -221,7 +221,7 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.premiereleague" start="20230819135000 +0000" stop="20230819163000 +0000">
-    <title lang="nl">Liverpool - Bournemouth</title>
+    <title lang="nl">Fulham - Brentford</title>
     <sub-title lang="nl">Ronde 2</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -229,7 +229,7 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23081020720900006</episode-num>
+    <episode-num system="dd_progid">S23081052338544365</episode-num>
     <episode-num system="onscreen">Ronde 2</episode-num>
     <language>nl</language>
     <video></video>
@@ -251,7 +251,7 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.premiereleague" start="20230819135000 +0000" stop="20230819163000 +0000">
-    <title lang="nl">Fulham - Brentford</title>
+    <title lang="nl">Liverpool - Bournemouth</title>
     <sub-title lang="nl">Ronde 2</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -259,7 +259,7 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23081052338544365</episode-num>
+    <episode-num system="dd_progid">S23081020720900006</episode-num>
     <episode-num system="onscreen">Ronde 2</episode-num>
     <language>nl</language>
     <video></video>
