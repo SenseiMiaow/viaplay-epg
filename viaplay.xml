@@ -241,21 +241,6 @@
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Bundesliga.png" height="134" width="220"></icon>
   </channel>
   <programme channel="viaplay.bundesliga" start="20230818182000 +0000" stop="20230818210000 +0000">
-    <title lang="nl">Werder Bremen - Bayern München</title>
-    <sub-title lang="nl">Ronde 1</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23080467992830122</episode-num>
-    <episode-num system="onscreen">Ronde 1</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230818182500 +0000" stop="20230818210000 +0000">
     <title lang="nl">Werder Bremen - Bayern München (Tactical Feed)</title>
     <sub-title lang="nl">Ronde 1</sub-title>
     <desc lang="nl"></desc>
@@ -265,6 +250,21 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23080953796764564</episode-num>
+    <episode-num system="onscreen">Ronde 1</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230818182000 +0000" stop="20230818210000 +0000">
+    <title lang="nl">Werder Bremen - Bayern München</title>
+    <sub-title lang="nl">Ronde 1</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23080467992830122</episode-num>
     <episode-num system="onscreen">Ronde 1</episode-num>
     <language>nl</language>
     <video></video>
@@ -381,21 +381,6 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga2" start="20230819105000 +0000" stop="20230819133000 +0000">
-    <title lang="nl">Hansa Rostock - Hannover</title>
-    <sub-title lang="nl">Ronde 3</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23081458139995384</episode-num>
-    <episode-num system="onscreen">Ronde 3</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga2" start="20230819105000 +0000" stop="20230819133000 +0000">
     <title lang="nl">Greuther Fürth - St. Pauli</title>
     <sub-title lang="nl">Ronde 3</sub-title>
     <desc lang="nl"></desc>
@@ -420,6 +405,21 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23081497711373297</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230819105000 +0000" stop="20230819133000 +0000">
+    <title lang="nl">Hansa Rostock - Hannover</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081458139995384</episode-num>
     <episode-num system="onscreen">Ronde 3</episode-num>
     <language>nl</language>
     <video></video>
