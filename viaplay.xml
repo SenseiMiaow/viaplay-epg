@@ -311,6 +311,36 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.premiereleague" start="20230826135000 +0000" stop="20230826163000 +0000">
+    <title lang="nl">Everton - Wolverhampton</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081663666574970</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230826135000 +0000" stop="20230826163000 +0000">
+    <title lang="nl">Brentford - Crystal Palace</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081631934323188</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230826135000 +0000" stop="20230826163000 +0000">
     <title lang="nl">Arsenal - Fulham</title>
     <sub-title lang="nl">Ronde 3</sub-title>
     <desc lang="nl"></desc>
@@ -491,6 +521,21 @@
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23081517078045993</episode-num>
     <episode-num system="onscreen">Ronde 1</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230825182000 +0000" stop="20230825210000 +0000">
+    <title lang="nl">Leipzig - Stuttgart</title>
+    <sub-title lang="nl">Ronde 2</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081677168579905</episode-num>
+    <episode-num system="onscreen">Ronde 2</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
