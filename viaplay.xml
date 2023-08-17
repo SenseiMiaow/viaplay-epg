@@ -415,6 +415,21 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.premiereleague" start="20230827145500 +0000" stop="20230827183000 +0000">
+    <title lang="nl">Newcastle - Liverpool</title>
+    <sub-title lang="nl">Ronde 3 | Studio</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081705889796426</episode-num>
+    <episode-num system="onscreen">Ronde 3 | Studio</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <channel id="viaplay.bundesliga">
     <display-name>VIAPLAYB1</display-name>
     <display-name>Viaplay Bundesliga</display-name>
