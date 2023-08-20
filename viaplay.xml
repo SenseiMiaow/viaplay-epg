@@ -935,7 +935,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230820112000 +0000" stop="20230820140000 +0000">
+  <programme channel="viaplay.bundesliga2" start="20230820112000 +0000" stop="20230820134500 +0000">
     <title lang="nl">Osnabrück - Nürnberg</title>
     <sub-title lang="nl">Ronde 3</sub-title>
     <desc lang="nl"></desc>
@@ -950,7 +950,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230820112000 +0000" stop="20230820140000 +0000">
+  <programme channel="viaplay.bundesliga2" start="20230820112000 +0000" stop="20230820133500 +0000">
     <title lang="nl">Braunschweig - Schalke</title>
     <sub-title lang="nl">Ronde 3</sub-title>
     <desc lang="nl"></desc>
@@ -965,7 +965,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230820112000 +0000" stop="20230820140000 +0000">
+  <programme channel="viaplay.bundesliga2" start="20230820112000 +0000" stop="20230820133500 +0000">
     <title lang="nl">Holstein Kiel - Magdeburg</title>
     <sub-title lang="nl">Ronde 3</sub-title>
     <desc lang="nl"></desc>
@@ -1025,7 +1025,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230820112000 +0000" stop="20230820140000 +0000">
+  <programme channel="viaplay.bundesliga2" start="20230820112000 +0000" stop="20230820134500 +0000">
     <title lang="nl">Osnabrück - Nürnberg</title>
     <sub-title lang="nl">Ronde 3</sub-title>
     <desc lang="nl"></desc>
@@ -1040,7 +1040,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230820112000 +0000" stop="20230820140000 +0000">
+  <programme channel="viaplay.bundesliga2" start="20230820112000 +0000" stop="20230820133500 +0000">
     <title lang="nl">Braunschweig - Schalke</title>
     <sub-title lang="nl">Ronde 3</sub-title>
     <desc lang="nl"></desc>
@@ -1055,7 +1055,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230820112000 +0000" stop="20230820140000 +0000">
+  <programme channel="viaplay.bundesliga2" start="20230820112000 +0000" stop="20230820133500 +0000">
     <title lang="nl">Holstein Kiel - Magdeburg</title>
     <sub-title lang="nl">Ronde 3</sub-title>
     <desc lang="nl"></desc>
