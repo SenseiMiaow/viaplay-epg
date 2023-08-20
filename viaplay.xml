@@ -645,7 +645,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga" start="20230820152000 +0000" stop="20230820180000 +0000">
+  <programme channel="viaplay.bundesliga" start="20230820152000 +0000" stop="20230820173500 +0000">
     <title lang="nl">Frankfurt - Darmstadt</title>
     <sub-title lang="nl">Ronde 1</sub-title>
     <desc lang="nl"></desc>
@@ -825,7 +825,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga" start="20230820152000 +0000" stop="20230820180000 +0000">
+  <programme channel="viaplay.bundesliga" start="20230820152000 +0000" stop="20230820173500 +0000">
     <title lang="nl">Frankfurt - Darmstadt</title>
     <sub-title lang="nl">Ronde 1</sub-title>
     <desc lang="nl"></desc>
