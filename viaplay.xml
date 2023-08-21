@@ -175,21 +175,6 @@
     <display-name>Viaplay Premiere-League</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_Premiere-League.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.premiereleague" start="20230819155500 +0000" stop="20230819192500 +0000">
-    <title lang="nl">Tottenham - Man United</title>
-    <sub-title lang="nl">Ronde 2 | Studio</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23081173416406537</episode-num>
-    <episode-num system="onscreen">Ronde 2 | Studio</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.premiereleague" start="20230819183000 +0000" stop="20230819214500 +0000">
     <title lang="nl">Man City - Newcastle</title>
     <sub-title lang="nl">Ronde 2 | Studio</sub-title>
