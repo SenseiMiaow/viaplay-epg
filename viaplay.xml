@@ -755,51 +755,6 @@
     <display-name>Viaplay Bundesliga 2</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Bundesliga2.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.bundesliga2" start="20230819105000 +0000" stop="20230819133000 +0000">
-    <title lang="nl">Greuther Fürth - St. Pauli</title>
-    <sub-title lang="nl">Ronde 3</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23081423554049084</episode-num>
-    <episode-num system="onscreen">Ronde 3</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga2" start="20230819105000 +0000" stop="20230819133000 +0000">
-    <title lang="nl">Düsseldorf - Paderborn</title>
-    <sub-title lang="nl">Ronde 3</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23081497711373297</episode-num>
-    <episode-num system="onscreen">Ronde 3</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga2" start="20230819105000 +0000" stop="20230819133000 +0000">
-    <title lang="nl">Hansa Rostock - Hannover</title>
-    <sub-title lang="nl">Ronde 3</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23081458139995384</episode-num>
-    <episode-num system="onscreen">Ronde 3</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.bundesliga2" start="20230819182000 +0000" stop="20230819210000 +0000">
     <title lang="nl">HSV - Hertha Berlin</title>
     <sub-title lang="nl">Ronde 3</sub-title>
