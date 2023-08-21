@@ -861,6 +861,21 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga2" start="20230825162000 +0000" stop="20230825185000 +0000">
+    <title lang="nl">Paderborn - Kaiserslautern</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082152145687707</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230825162000 +0000" stop="20230825185000 +0000">
     <title lang="nl">Schalke - Holstein Kiel</title>
     <sub-title lang="nl">Ronde 4</sub-title>
     <desc lang="nl"></desc>
@@ -870,6 +885,21 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23081841594624725</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230826105000 +0000" stop="20230826133000 +0000">
+    <title lang="nl">Hansa Rostock - Osnabrück</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082132262407384</episode-num>
     <episode-num system="onscreen">Ronde 4</episode-num>
     <language>nl</language>
     <video></video>
