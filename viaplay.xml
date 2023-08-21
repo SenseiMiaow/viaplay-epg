@@ -110,7 +110,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230827075000 +0000" stop="20230827094000 +0000">
+  <programme channel="viaplay.f1" start="20230827075000 +0000" stop="20230827094500 +0000">
     <title lang="nl">Grand Prix van Nederland</title>
     <sub-title lang="nl">Race</sub-title>
     <desc lang="nl"></desc>
