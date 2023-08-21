@@ -891,6 +891,21 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga2" start="20230826105000 +0000" stop="20230826133000 +0000">
+    <title lang="nl">Elversberg - Düsseldorf</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082167418487379</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230826105000 +0000" stop="20230826133000 +0000">
     <title lang="nl">Hansa Rostock - Osnabrück</title>
     <sub-title lang="nl">Ronde 4</sub-title>
     <desc lang="nl"></desc>
@@ -930,6 +945,51 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23081841464275993</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230827112000 +0000" stop="20230827140000 +0000">
+    <title lang="nl">Nürnberg - Wehen Wiesbaden</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082191111104043</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230827112000 +0000" stop="20230827140000 +0000">
+    <title lang="nl">Karlsruher - Braunschweig</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082180646099430</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230827112000 +0000" stop="20230827140000 +0000">
+    <title lang="nl">St. Pauli -  Magdeburg</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082187813259409</episode-num>
     <episode-num system="onscreen">Ronde 4</episode-num>
     <language>nl</language>
     <video></video>
