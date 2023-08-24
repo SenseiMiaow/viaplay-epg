@@ -50,7 +50,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230826122500 +0000" stop="20230826155500 +0000">
+  <programme channel="viaplay.f1" start="20230826121500 +0000" stop="20230826155500 +0000">
     <title lang="nl">Grand Prix van Nederland</title>
     <sub-title lang="nl">Kwalificatie</sub-title>
     <desc lang="nl"></desc>
@@ -296,21 +296,6 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.premiereleague" start="20230826135000 +0000" stop="20230826163000 +0000">
-    <title lang="nl">Brentford - Crystal Palace</title>
-    <sub-title lang="nl">Ronde 3</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23081631934323188</episode-num>
-    <episode-num system="onscreen">Ronde 3</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.premiereleague" start="20230826135000 +0000" stop="20230826163000 +0000">
     <title lang="nl">Everton - Wolverhampton</title>
     <sub-title lang="nl">Ronde 3</sub-title>
     <desc lang="nl"></desc>
@@ -320,6 +305,21 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23081663666574970</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230826135000 +0000" stop="20230826163000 +0000">
+    <title lang="nl">Brentford - Crystal Palace</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081631934323188</episode-num>
     <episode-num system="onscreen">Ronde 3</episode-num>
     <language>nl</language>
     <video></video>
@@ -680,7 +680,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230826182500 +0000" stop="20230826210000 +0000">
+  <programme channel="viaplay.bundesliga2" start="20230826182000 +0000" stop="20230826210000 +0000">
     <title lang="nl">Hannover - HSV</title>
     <sub-title lang="nl">Ronde 4</sub-title>
     <desc lang="nl"></desc>
@@ -696,7 +696,7 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga2" start="20230827112000 +0000" stop="20230827140000 +0000">
-    <title lang="nl">Nürnberg - Wehen Wiesbaden</title>
+    <title lang="nl">St. Pauli -  Magdeburg</title>
     <sub-title lang="nl">Ronde 4</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -704,7 +704,7 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23082191111104043</episode-num>
+    <episode-num system="dd_progid">S23082187813259409</episode-num>
     <episode-num system="onscreen">Ronde 4</episode-num>
     <language>nl</language>
     <video></video>
@@ -726,7 +726,7 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga2" start="20230827112000 +0000" stop="20230827140000 +0000">
-    <title lang="nl">St. Pauli -  Magdeburg</title>
+    <title lang="nl">Nürnberg - Wehen Wiesbaden</title>
     <sub-title lang="nl">Ronde 4</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -734,7 +734,7 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23082187813259409</episode-num>
+    <episode-num system="dd_progid">S23082191111104043</episode-num>
     <episode-num system="onscreen">Ronde 4</episode-num>
     <language>nl</language>
     <video></video>
