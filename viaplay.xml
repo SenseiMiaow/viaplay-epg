@@ -630,7 +630,7 @@
     <display-name>Viaplay Bundesliga</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Bundesliga.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.bundesliga" start="20230825182000 +0000" stop="20230825210000 +0000">
+  <programme channel="viaplay.bundesliga" start="20230825182000 +0000" stop="20230825203500 +0000">
     <title lang="nl">Leipzig - Stuttgart</title>
     <sub-title lang="nl">Ronde 2</sub-title>
     <desc lang="nl"></desc>
@@ -825,7 +825,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga" start="20230825182000 +0000" stop="20230825210000 +0000">
+  <programme channel="viaplay.bundesliga" start="20230825182000 +0000" stop="20230825203500 +0000">
     <title lang="nl">Leipzig - Stuttgart</title>
     <sub-title lang="nl">Ronde 2</sub-title>
     <desc lang="nl"></desc>
