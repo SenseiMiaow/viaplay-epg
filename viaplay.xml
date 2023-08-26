@@ -840,7 +840,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga" start="20230826162000 +0000" stop="20230826190000 +0000">
+  <programme channel="viaplay.bundesliga" start="20230826162000 +0000" stop="20230826183500 +0000">
     <title lang="nl">Mönchengladbach - Leverkusen</title>
     <sub-title lang="nl">Ronde 2</sub-title>
     <desc lang="nl"></desc>
@@ -1020,7 +1020,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga" start="20230826162000 +0000" stop="20230826190000 +0000">
+  <programme channel="viaplay.bundesliga" start="20230826162000 +0000" stop="20230826183500 +0000">
     <title lang="nl">Mönchengladbach - Leverkusen</title>
     <sub-title lang="nl">Ronde 2</sub-title>
     <desc lang="nl"></desc>
