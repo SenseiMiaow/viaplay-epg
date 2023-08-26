@@ -355,7 +355,7 @@
     <display-name>Viaplay Formule 1 - Pitlane</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay_pitlane.f1" start="20230826130000 +0000" stop="20230826151000 +0000">
+  <programme channel="viaplay_pitlane.f1" start="20230826130000 +0000" stop="20230826161000 +0000">
     <title lang="nl">Pitlane</title>
     <sub-title lang="nl">Grand Prix van Nederland | Kwalificatie</sub-title>
     <desc lang="nl">Zie met eigen ogen wat er tijdens de race allemaal in de pits gebeurt en ervaar de snel wisselende uitdagingen waarmee Formule 1-teams te maken krijgen.</desc>
@@ -403,7 +403,7 @@
   <programme channel="viaplay_onboard_verstappen.f1" start="20230826130000 +0000" stop="20230826151000 +0000">
     <title lang="nl">Verstappen Onboard</title>
     <sub-title lang="nl">Grand Prix van Nederland | Kwalificatie</sub-title>
-    <desc lang="nl">Het is de droom van elke autoliefhebber om achter het stuur van een Formule 1-auto te zitten. Viaplay laat die droom nu uitkomen. Er is een camera in de auto geïnstalleerd, zodat je de race van start tot finish vanuit de positie van de coureur kunt bekijken. Je kunt altijd de snelheid zien en volgen hoeveel KERS en DRS er worden gebruikt.</desc>
+    <desc lang="nl">Het is de droom van elke autoliefhebber om achter het stuur van een Formule 1-auto te zitten. Viaplay laat die droom nu uitkomen. Er is een camera in de auto geïnstalleerd, zodat je de race van start tot finish vanuit de positie van de coureur kunt bekijken. </desc>
     <credits></credits>
     <category lang="en">Auto racing</category>
     <category lang="en">Sports talk</category>
