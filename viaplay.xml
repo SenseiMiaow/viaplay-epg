@@ -750,7 +750,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga" start="20230827152000 +0000" stop="20230827180000 +0000">
+  <programme channel="viaplay.bundesliga" start="20230827152000 +0000" stop="20230827173000 +0000">
     <title lang="nl">Bayern München - Augsburg</title>
     <sub-title lang="nl">Ronde 2</sub-title>
     <desc lang="nl"></desc>
@@ -825,7 +825,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga" start="20230827152000 +0000" stop="20230827180000 +0000">
+  <programme channel="viaplay.bundesliga" start="20230827152000 +0000" stop="20230827173000 +0000">
     <title lang="nl">Bayern München - Augsburg</title>
     <sub-title lang="nl">Ronde 2</sub-title>
     <desc lang="nl"></desc>
