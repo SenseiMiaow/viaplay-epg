@@ -1,0 +1,898 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="viaplay.f1">
+    <display-name>VIAPLAYF1</display-name>
+    <display-name>Viaplay Formule 1</display-name>
+    <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
+  </channel>
+  <programme channel="viaplay.f1" start="20230826082500 +0000" stop="20230826114000 +0000">
+    <title lang="nl">Grand Prix van Nederland</title>
+    <sub-title lang="nl">Vrije training 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081541836667968</episode-num>
+    <episode-num system="onscreen">Vrije training 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230826121500 +0000" stop="20230826152000 +0000">
+    <title lang="nl">Grand Prix van Nederland</title>
+    <sub-title lang="nl">Kwalificatie</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081525206466294</episode-num>
+    <episode-num system="onscreen">Kwalificatie</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230827104000 +0000" stop="20230827171000 +0000">
+    <title lang="nl">Grand Prix van Nederland</title>
+    <sub-title lang="nl">Race</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081559744713055</episode-num>
+    <episode-num system="onscreen">Race</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230901112000 +0000" stop="20230901134000 +0000">
+    <title lang="nl">Grand Prix van Italië</title>
+    <sub-title lang="nl">Vrije training 1</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082224541720131</episode-num>
+    <episode-num system="onscreen">Vrije training 1</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230901145000 +0000" stop="20230901171000 +0000">
+    <title lang="nl">Grand Prix van Italië</title>
+    <sub-title lang="nl">Vrije training 2</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082354880678487</episode-num>
+    <episode-num system="onscreen">Vrije training 2</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230902102000 +0000" stop="20230902124000 +0000">
+    <title lang="nl">Grand Prix van Italië</title>
+    <sub-title lang="nl">Vrije training 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082348006306322</episode-num>
+    <episode-num system="onscreen">Vrije training 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230902132500 +0000" stop="20230902164500 +0000">
+    <title lang="nl">Grand Prix van Italië</title>
+    <sub-title lang="nl">Kwalificatie</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082388901456639</episode-num>
+    <episode-num system="onscreen">Kwalificatie</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230903112000 +0000" stop="20230903171500 +0000">
+    <title lang="nl">Grand Prix van Italië</title>
+    <sub-title lang="nl">Race</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082374558618368</episode-num>
+    <episode-num system="onscreen">Race</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230826110500 +0000" stop="20230826124500 +0000">
+    <title lang="nl">Grand Prix van Nederland</title>
+    <sub-title lang="nl">Sprint Race</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081637909527258</episode-num>
+    <episode-num system="onscreen">Sprint Race</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230827072500 +0000" stop="20230827094500 +0000">
+    <title lang="nl">Grand Prix van Nederland</title>
+    <sub-title lang="nl">Race</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081601179762555</episode-num>
+    <episode-num system="onscreen">Race</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230901125500 +0000" stop="20230901141500 +0000">
+    <title lang="nl">Grand Prix van Italië</title>
+    <sub-title lang="nl">Kwalificatie</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082599751163669</episode-num>
+    <episode-num system="onscreen">Kwalificatie</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230901135000 +0000" stop="20230901151000 +0000">
+    <title lang="nl">Grand Prix van Italië</title>
+    <sub-title lang="nl">Kwalificatie</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082590578998736</episode-num>
+    <episode-num system="onscreen">Kwalificatie</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230902073000 +0000" stop="20230902091000 +0000">
+    <title lang="nl">Grand Prix van Italië</title>
+    <sub-title lang="nl">Sprint Race</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082534080935656</episode-num>
+    <episode-num system="onscreen">Sprint Race</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230902121000 +0000" stop="20230902134000 +0000">
+    <title lang="nl">Grand Prix van Italië</title>
+    <sub-title lang="nl">Sprint Race</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082580298134753</episode-num>
+    <episode-num system="onscreen">Sprint Race</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230903060500 +0000" stop="20230903074500 +0000">
+    <title lang="nl">Grand Prix van Italië</title>
+    <sub-title lang="nl">Race</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082566598224035</episode-num>
+    <episode-num system="onscreen">Race</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.f1" start="20230903074500 +0000" stop="20230903094000 +0000">
+    <title lang="nl">Grand Prix van Italië</title>
+    <sub-title lang="nl">Race</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Auto racing</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082519993572011</episode-num>
+    <episode-num system="onscreen">Race</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <channel id="viaplay_backupfeed.f1">
+    <display-name>VIAPLAYBFF1</display-name>
+    <display-name>Viaplay Formule 1 - Backup Feed</display-name>
+    <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
+  </channel>
+  <channel id="viaplay_timing.f1">
+    <display-name>VIAPLAYTF1</display-name>
+    <display-name>Viaplay Formule 1 - Timing</display-name>
+    <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
+  </channel>
+  <channel id="viaplay_trackpos.f1">
+    <display-name>VIAPLAYTPF1</display-name>
+    <display-name>Viaplay Formule 1 - Track Positioning</display-name>
+    <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
+  </channel>
+  <channel id="viaplay_pitlane.f1">
+    <display-name>VIAPLAYPF1</display-name>
+    <display-name>Viaplay Formule 1 - Pitlane</display-name>
+    <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
+  </channel>
+  <channel id="viaplay_onboard_bottas.f1">
+    <display-name>VIAPLAYOBBF1</display-name>
+    <display-name>Viaplay Formule 1 - Bottas Onboard</display-name>
+    <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
+  </channel>
+  <channel id="viaplay_onboard_magnussen.f1">
+    <display-name>VIAPLAYOBMF1</display-name>
+    <display-name>Viaplay Formule 1 - Magnussen Onboard</display-name>
+    <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
+  </channel>
+  <channel id="viaplay_onboard_verstappen.f1">
+    <display-name>VIAPLAYOBVF1</display-name>
+    <display-name>Viaplay Formule 1 - Verstappen Onboard</display-name>
+    <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
+  </channel>
+  <channel id="viaplay_onboard_mixed.f1">
+    <display-name>VIAPLAYOBMXF1</display-name>
+    <display-name>Viaplay Formule 1 - Onboard MIxed</display-name>
+    <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
+  </channel>
+  <channel id="viaplay_shakedown.f1">
+    <display-name>VIAPLAYSF1</display-name>
+    <display-name>Viaplay Formule 1 - Shakedown</display-name>
+    <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
+  </channel>
+  <channel id="viaplay.premiereleague">
+    <display-name>VIAPLAYPL</display-name>
+    <display-name>Viaplay Premiere-League</display-name>
+    <icon src="http://10.0.0.41/channels/channels_Viaplay_Premiere-League.png" height="134" width="220"></icon>
+  </channel>
+  <programme channel="viaplay.premiereleague" start="20230826112000 +0000" stop="20230826140000 +0000">
+    <title lang="nl">Bournemouth - Tottenham</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081628006008844</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230826132500 +0000" stop="20230826164500 +0000">
+    <title lang="nl">Man United - Nottingham Forest</title>
+    <sub-title lang="nl">Ronde 3 | Studio</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081702809870432</episode-num>
+    <episode-num system="onscreen">Ronde 3 | Studio</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230826135000 +0000" stop="20230826163000 +0000">
+    <title lang="nl">Everton - Wolverhampton</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081663666574970</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230826135000 +0000" stop="20230826163000 +0000">
+    <title lang="nl">Brentford - Crystal Palace</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081631934323188</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230826135000 +0000" stop="20230826163000 +0000">
+    <title lang="nl">Arsenal - Fulham</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081655727780285</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230826162000 +0000" stop="20230826190000 +0000">
+    <title lang="nl">Brighton - West Ham</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081733959514519</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230827125000 +0000" stop="20230827153000 +0000">
+    <title lang="nl">Sheffield United - Man City</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081730289100794</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230827125000 +0000" stop="20230827153000 +0000">
+    <title lang="nl">Burnley - Aston Villa</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081771622971855</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230827145500 +0000" stop="20230827180500 +0000">
+    <title lang="nl">Newcastle - Liverpool</title>
+    <sub-title lang="nl">Ronde 3 | Studio</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081705889796426</episode-num>
+    <episode-num system="onscreen">Ronde 3 | Studio</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230901185000 +0000" stop="20230901213000 +0000">
+    <title lang="nl">Luton - West Ham</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082445584879184</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230902112000 +0000" stop="20230902140000 +0000">
+    <title lang="nl">Sheffield United - Everton</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082435728139292</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230902132500 +0000" stop="20230902165500 +0000">
+    <title lang="nl">Man City - Fulham</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082428174831975</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230902135000 +0000" stop="20230902163000 +0000">
+    <title lang="nl">Brentford - Bournemouth</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082465517687496</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230902135000 +0000" stop="20230902163000 +0000">
+    <title lang="nl">Burnley - Tottenham</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082433940373002</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230902135000 +0000" stop="20230902163000 +0000">
+    <title lang="nl">Chelsea - Nottingham Forest</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082441022376430</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230902160000 +0000" stop="20230902193000 +0000">
+    <title lang="nl">Brighton - Newcastle</title>
+    <sub-title lang="nl">Ronde 4 | Studio</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082417417317195</episode-num>
+    <episode-num system="onscreen">Ronde 4 | Studio</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230903122500 +0000" stop="20230903155500 +0000">
+    <title lang="nl">Liverpool - Aston Villa</title>
+    <sub-title lang="nl">Ronde 4 | Studio</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082417556962268</episode-num>
+    <episode-num system="onscreen">Ronde 4 | Studio</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230903125000 +0000" stop="20230903153000 +0000">
+    <title lang="nl">Crystal Palace - Wolverhampton</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082307787836072</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.premiereleague" start="20230903150000 +0000" stop="20230903183000 +0000">
+    <title lang="nl">Arsenal - Man United</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082451299547083</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <channel id="viaplay.bundesliga">
+    <display-name>VIAPLAYB1</display-name>
+    <display-name>Viaplay Bundesliga</display-name>
+    <icon src="http://10.0.0.41//channels/channels_Viaplay_Bundesliga.png" height="134" width="220"></icon>
+  </channel>
+  <programme channel="viaplay.bundesliga" start="20230826132000 +0000" stop="20230826160000 +0000">
+    <title lang="nl">Freiburg - Werder Bremen</title>
+    <sub-title lang="nl">Ronde 2</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081631326799979</episode-num>
+    <episode-num system="onscreen">Ronde 2</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230826132000 +0000" stop="20230826160000 +0000">
+    <title lang="nl">Köln - Wolfsburg</title>
+    <sub-title lang="nl">Ronde 2</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081621219131863</episode-num>
+    <episode-num system="onscreen">Ronde 2</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230826132000 +0000" stop="20230826160000 +0000">
+    <title lang="nl">Heidenheim - Hoffenheim</title>
+    <sub-title lang="nl">Ronde 2</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081804388610978</episode-num>
+    <episode-num system="onscreen">Ronde 2</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230826132000 +0000" stop="20230826160000 +0000">
+    <title lang="nl">Goal Arena - The Bundesliga Konferenz</title>
+    <sub-title lang="nl">Ronde 2</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081889446082124</episode-num>
+    <episode-num system="onscreen">Ronde 2</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230826132000 +0000" stop="20230826160000 +0000">
+    <title lang="nl">Darmstadt - Union Berlin</title>
+    <sub-title lang="nl">Ronde 2</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081834025554006</episode-num>
+    <episode-num system="onscreen">Ronde 2</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230826132000 +0000" stop="20230826160000 +0000">
+    <title lang="nl">Bochum - Dortmund</title>
+    <sub-title lang="nl">Ronde 2</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081634614105946</episode-num>
+    <episode-num system="onscreen">Ronde 2</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230826162000 +0000" stop="20230826183500 +0000">
+    <title lang="nl">Mönchengladbach - Leverkusen</title>
+    <sub-title lang="nl">Ronde 2</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081860183702221</episode-num>
+    <episode-num system="onscreen">Ronde 2</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230827132000 +0000" stop="20230827160000 +0000">
+    <title lang="nl">Mainz - Frankfurt</title>
+    <sub-title lang="nl">Ronde 2</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081779014177391</episode-num>
+    <episode-num system="onscreen">Ronde 2</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230827152000 +0000" stop="20230827173000 +0000">
+    <title lang="nl">Bayern München - Augsburg</title>
+    <sub-title lang="nl">Ronde 2</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081755193914499</episode-num>
+    <episode-num system="onscreen">Ronde 2</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230901182000 +0000" stop="20230901210000 +0000">
+    <title lang="nl">Dortmund - Heidenheim</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082540359490249</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230902162000 +0000" stop="20230902190000 +0000">
+    <title lang="nl">Mönchengladbach - Bayern München</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082447097911138</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230903152000 +0000" stop="20230903180000 +0000">
+    <title lang="nl">Union Berlin - Leipzig</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082520265886397</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <channel id="viaplay.bundesliga2">
+    <display-name>VIAPLAYB2</display-name>
+    <display-name>Viaplay Bundesliga 2</display-name>
+    <icon src="http://10.0.0.41//channels/channels_Viaplay_Bundesliga2.png" height="134" width="220"></icon>
+  </channel>
+  <programme channel="viaplay.bundesliga2" start="20230826105000 +0000" stop="20230826133000 +0000">
+    <title lang="nl">Hertha Berlin - Greuther Fürth</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081822647662007</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230826105000 +0000" stop="20230826133000 +0000">
+    <title lang="nl">Elversberg - Düsseldorf</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082167418487379</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230826105000 +0000" stop="20230826133000 +0000">
+    <title lang="nl">Hansa Rostock - Osnabrück</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082132262407384</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230826182000 +0000" stop="20230826210000 +0000">
+    <title lang="nl">Hannover - HSV</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23081841464275993</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230827112000 +0000" stop="20230827140000 +0000">
+    <title lang="nl">St. Pauli -  Magdeburg</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082187813259409</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230827112000 +0000" stop="20230827140000 +0000">
+    <title lang="nl">Karlsruher - Braunschweig</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082180646099430</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230827112000 +0000" stop="20230827133000 +0000">
+    <title lang="nl">Nürnberg - Wehen Wiesbaden</title>
+    <sub-title lang="nl">Ronde 4</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082191111104043</episode-num>
+    <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230902182000 +0000" stop="20230902210000 +0000">
+    <title lang="nl">Kaiserslautern - Nürnberg</title>
+    <sub-title lang="nl">Ronde 5</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082501994399493</episode-num>
+    <episode-num system="onscreen">Ronde 5</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <channel id="viaplay.darts">
+    <display-name>VIAPLAYD</display-name>
+    <display-name>Viaplay Darts</display-name>
+    <icon src="http://10.0.0.41//channels/channels_Viaplay_Darts.png" height="134" width="220"></icon>
+  </channel>
+</tv>
