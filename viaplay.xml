@@ -5,21 +5,6 @@
     <display-name>Viaplay Formule 1</display-name>
     <icon src="http://10.0.0.41/channels/channels_Viaplay_F1.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.f1" start="20230826082500 +0000" stop="20230826114000 +0000">
-    <title lang="nl">Grand Prix van Nederland</title>
-    <sub-title lang="nl">Vrije training 3</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Auto racing</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23081541836667968</episode-num>
-    <episode-num system="onscreen">Vrije training 3</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
   <programme channel="viaplay.f1" start="20230826121500 +0000" stop="20230826152000 +0000">
     <title lang="nl">Grand Prix van Nederland</title>
     <sub-title lang="nl">Kwalificatie</sub-title>
@@ -65,7 +50,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230901145000 +0000" stop="20230901171000 +0000">
+  <programme channel="viaplay.f1" start="20230901145000 +0000" stop="20230901170500 +0000">
     <title lang="nl">Grand Prix van Italië</title>
     <sub-title lang="nl">Vrije training 2</sub-title>
     <desc lang="nl"></desc>
@@ -871,6 +856,36 @@
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23082191111104043</episode-num>
     <episode-num system="onscreen">Ronde 4</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230901162000 +0000" stop="20230901190000 +0000">
+    <title lang="nl">Düsseldorf - Karlsruher</title>
+    <sub-title lang="nl">Ronde 5</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082809086282564</episode-num>
+    <episode-num system="onscreen">Ronde 5</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga2" start="20230901162500 +0000" stop="20230901210000 +0000">
+    <title lang="nl">Braunschweig - St. Pauli</title>
+    <sub-title lang="nl">Ronde 5</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082825017315121</episode-num>
+    <episode-num system="onscreen">Ronde 5</episode-num>
     <language>nl</language>
     <video></video>
     <audio></audio>
