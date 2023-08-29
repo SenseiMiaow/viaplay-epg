@@ -495,6 +495,21 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.bundesliga" start="20230902132000 +0000" stop="20230902160000 +0000">
+    <title lang="nl">Hoffenheim - Wolfsburg</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082853906148673</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <programme channel="viaplay.bundesliga" start="20230902132000 +0000" stop="20230902154500 +0000">
     <title lang="nl">Goal Arena - The Bundesliga Konferenz</title>
     <sub-title lang="nl">Ronde 3</sub-title>
@@ -550,21 +565,6 @@
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
     <episode-num system="dd_progid">S23082890471644883</episode-num>
-    <episode-num system="onscreen">Ronde 3</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230902132000 +0000" stop="20230902160000 +0000">
-    <title lang="nl">Hoffenheim - Wolfsburg</title>
-    <sub-title lang="nl">Ronde 3</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23082853906148673</episode-num>
     <episode-num system="onscreen">Ronde 3</episode-num>
     <language>nl</language>
     <video></video>
