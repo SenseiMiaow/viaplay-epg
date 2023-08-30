@@ -391,36 +391,6 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.bundesliga" start="20230902132000 +0000" stop="20230902160000 +0000">
-    <title lang="nl">Hoffenheim - Wolfsburg</title>
-    <sub-title lang="nl">Ronde 3</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23082853906148673</episode-num>
-    <episode-num system="onscreen">Ronde 3</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230902132000 +0000" stop="20230902154500 +0000">
-    <title lang="nl">Goal Arena - The Bundesliga Konferenz</title>
-    <sub-title lang="nl">Ronde 3</sub-title>
-    <desc lang="nl"></desc>
-    <credits></credits>
-    <category lang="en">Soccer</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Sport</category>
-    <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23082834818805970</episode-num>
-    <episode-num system="onscreen">Ronde 3</episode-num>
-    <language>nl</language>
-    <video></video>
-    <audio></audio>
-  </programme>
-  <programme channel="viaplay.bundesliga" start="20230902132000 +0000" stop="20230902160000 +0000">
     <title lang="nl">Stuttgart - Freiburg</title>
     <sub-title lang="nl">Ronde 3</sub-title>
     <desc lang="nl"></desc>
@@ -480,6 +450,36 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.bundesliga" start="20230902132000 +0000" stop="20230902160000 +0000">
+    <title lang="nl">Hoffenheim - Wolfsburg</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082853906148673</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
+  <programme channel="viaplay.bundesliga" start="20230902132000 +0000" stop="20230902154500 +0000">
+    <title lang="nl">Goal Arena - The Bundesliga Konferenz</title>
+    <sub-title lang="nl">Ronde 3</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Soccer</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23082834818805970</episode-num>
+    <episode-num system="onscreen">Ronde 3</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
   <programme channel="viaplay.bundesliga" start="20230902162000 +0000" stop="20230902190000 +0000">
     <title lang="nl">Mönchengladbach - Bayern München</title>
     <sub-title lang="nl">Ronde 3</sub-title>
@@ -530,7 +530,7 @@
     <display-name>Viaplay Bundesliga 2</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Bundesliga2.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.bundesliga2" start="20230901162500 +0000" stop="20230901210000 +0000">
+  <programme channel="viaplay.bundesliga2" start="20230901162000 +0000" stop="20230901210000 +0000">
     <title lang="nl">Braunschweig - St. Pauli</title>
     <sub-title lang="nl">Ronde 5</sub-title>
     <desc lang="nl"></desc>
