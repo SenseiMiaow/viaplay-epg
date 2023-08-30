@@ -266,7 +266,7 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.premiereleague" start="20230902135000 +0000" stop="20230902163000 +0000">
-    <title lang="nl">Brentford - Bournemouth</title>
+    <title lang="nl">Chelsea - Nottingham Forest</title>
     <sub-title lang="nl">Ronde 4</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -274,7 +274,7 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23082465517687496</episode-num>
+    <episode-num system="dd_progid">S23082441022376430</episode-num>
     <episode-num system="onscreen">Ronde 4</episode-num>
     <language>nl</language>
     <video></video>
@@ -296,7 +296,7 @@
     <audio></audio>
   </programme>
   <programme channel="viaplay.premiereleague" start="20230902135000 +0000" stop="20230902163000 +0000">
-    <title lang="nl">Chelsea - Nottingham Forest</title>
+    <title lang="nl">Brentford - Bournemouth</title>
     <sub-title lang="nl">Ronde 4</sub-title>
     <desc lang="nl"></desc>
     <credits></credits>
@@ -304,7 +304,7 @@
     <category lang="en">Sports talk</category>
     <category lang="en">Sport</category>
     <category lang="en">sport</category>
-    <episode-num system="dd_progid">S23082441022376430</episode-num>
+    <episode-num system="dd_progid">S23082465517687496</episode-num>
     <episode-num system="onscreen">Ronde 4</episode-num>
     <language>nl</language>
     <video></video>
