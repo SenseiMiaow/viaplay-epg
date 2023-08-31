@@ -670,4 +670,19 @@
     <display-name>Viaplay Darts</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Darts.png" height="134" width="220"></icon>
   </channel>
+  <programme channel="viaplay.darts" start="20230908110000 +0000" stop="20230908153000 +0000">
+    <title lang="nl">German Darts Open</title>
+    <sub-title lang="nl">Ronde 1 | 2023 European Tour</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Darts</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23083176364125071</episode-num>
+    <episode-num system="onscreen">Ronde 1 | 2023 European Tour</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
 </tv>
