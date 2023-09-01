@@ -560,7 +560,7 @@
     <display-name>Viaplay Bundesliga 2</display-name>
     <icon src="http://10.0.0.41//channels/channels_Viaplay_Bundesliga2.png" height="134" width="220"></icon>
   </channel>
-  <programme channel="viaplay.bundesliga2" start="20230901162000 +0000" stop="20230901210000 +0000">
+  <programme channel="viaplay.bundesliga2" start="20230901162000 +0000" stop="20230901184000 +0000">
     <title lang="nl">Braunschweig - St. Pauli</title>
     <sub-title lang="nl">Ronde 5</sub-title>
     <desc lang="nl"></desc>
@@ -575,7 +575,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230901162000 +0000" stop="20230901190000 +0000">
+  <programme channel="viaplay.bundesliga2" start="20230901162000 +0000" stop="20230901184000 +0000">
     <title lang="nl">Düsseldorf - Karlsruher</title>
     <sub-title lang="nl">Ronde 5</sub-title>
     <desc lang="nl"></desc>
@@ -695,7 +695,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230901162000 +0000" stop="20230901210000 +0000">
+  <programme channel="viaplay.bundesliga2" start="20230901162000 +0000" stop="20230901184000 +0000">
     <title lang="nl">Braunschweig - St. Pauli</title>
     <sub-title lang="nl">Ronde 5</sub-title>
     <desc lang="nl"></desc>
@@ -710,7 +710,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.bundesliga2" start="20230901162000 +0000" stop="20230901190000 +0000">
+  <programme channel="viaplay.bundesliga2" start="20230901162000 +0000" stop="20230901184000 +0000">
     <title lang="nl">Düsseldorf - Karlsruher</title>
     <sub-title lang="nl">Ronde 5</sub-title>
     <desc lang="nl"></desc>
