@@ -20,7 +20,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230901145000 +0000" stop="20230901170500 +0000">
+  <programme channel="viaplay.f1" start="20230901145000 +0000" stop="20230901173500 +0000">
     <title lang="nl">Grand Prix van Italië</title>
     <sub-title lang="nl">Vrije training 2</sub-title>
     <desc lang="nl"></desc>
@@ -95,7 +95,7 @@
     <video></video>
     <audio></audio>
   </programme>
-  <programme channel="viaplay.f1" start="20230901135000 +0000" stop="20230901151000 +0000">
+  <programme channel="viaplay.f1" start="20230901135000 +0000" stop="20230901144500 +0000">
     <title lang="nl">Grand Prix van Italië</title>
     <sub-title lang="nl">Kwalificatie</sub-title>
     <desc lang="nl"></desc>
