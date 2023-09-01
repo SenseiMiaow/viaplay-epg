@@ -775,4 +775,19 @@
     <video></video>
     <audio></audio>
   </programme>
+  <programme channel="viaplay.darts" start="20230909170000 +0000" stop="20230909213000 +0000">
+    <title lang="nl">German Darts Open</title>
+    <sub-title lang="nl">Ronde 2 | 2023 European Tour</sub-title>
+    <desc lang="nl"></desc>
+    <credits></credits>
+    <category lang="en">Darts</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Sport</category>
+    <category lang="en">sport</category>
+    <episode-num system="dd_progid">S23090149103648395</episode-num>
+    <episode-num system="onscreen">Ronde 2 | 2023 European Tour</episode-num>
+    <language>nl</language>
+    <video></video>
+    <audio></audio>
+  </programme>
 </tv>
